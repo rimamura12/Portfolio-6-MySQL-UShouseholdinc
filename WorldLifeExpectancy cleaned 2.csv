@@ -1,0 +1,1001 @@
+row_id,id,State_Code,State_Name,State_ab,County,City,Place,Type,Primary,Zip_Code,Area_Code,ALand,AWater,Lat,Lon,row_num
+1,1026,1,Alabama,AL,"Autauga County",Elmore,Autaugaville,Track,Track,36025,334,8020338,60048,32.4473511,-86.4768097,1
+527,2027,2,Alaska,AK,"Aleutians East Borough","Eagle River","Akutan city",Track,Track,99577,907,9185110,0,61.3286309,-149.5379974,1
+632,4023,4,Arizona,AZ,"Apache County","Fort Defiance",Chinle,Track,Track,86504,928,792172786,627645,35.9506832,-109.1461416,1
+1249,5026,5,Arkansas,AR,"Arkansas County",Dewitt,"Stuttgart city",Track,Track,72042,870,133400347,1701960,34.3069023,-91.3895216,1
+1589,6029,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94608,510,420877,0,37.8394912,-122.2802646,1
+5395,9029,9,Connecticut,CT,"Fairfield County",Greenwich,Bethel,Track,Track,6830,203,1855241,87317,41.0310969,-73.6143505,1
+5750,10022,10,Delaware,DE,"Kent County",Clayton,Camden,Track,Track,19938,302,9731942,35860,39.2908408,-75.6375081,1
+2,10216,1,Alabama,AL,"Autauga County",Robertsdale,Autaugaville,Track,Track,36567,251,737211648,3860933,30.7200267,-87.6245437,1
+3,10226,1,Alabama,AL,"Autauga County",Silverhill,Autaugaville,Track,Track,36576,251,71113244,190587,30.5345606,-87.7548736,1
+4,10236,1,Alabama,AL,"Autauga County","Orange Beach",Autaugaville,Track,Track,36561,251,15491986,20427550,30.3005856,-87.5417985,1
+5,10246,1,Alabama,AL,"Autauga County",Louisville,Autaugaville,Track,Track,36048,334,517008078,983621,31.9222753,-85.4498309,1
+6,10256,1,Alabama,AL,"Autauga County",Brent,Autaugaville,Track,Track,35034,205,691793540,3983687,32.9533249,-87.0043466,1
+7,10266,1,Alabama,AL,"Autauga County",Remlap,Autaugaville,Track,Track,35133,205,203716769,1004680,33.8405764,-86.6350183,1
+8,10276,1,Alabama,AL,"Autauga County",Georgiana,Autaugaville,Track,Track,36033,334,352261684,177369,31.7163243,-86.7533225,1
+9,10286,1,Alabama,AL,"Autauga County",Anniston,Autaugaville,Track,Track,36207,256,12116269,23502,33.6448084,-85.796557,1
+10,10296,1,Alabama,AL,"Autauga County",Jacksonville,Autaugaville,Track,Track,36265,256,41129558,487657,33.7661796,-85.7864612,1
+5838,11012,11,"District of Columbia",DC,"District of",Washington,"Washington city",City,place,20001,202,158364992,18633403,38.904103,-77.017229,1
+5839,11021,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20007,202,1907610,512798,38.9060174,-77.0601874,1
+7563,13023,13,Georgia,GA,"Appling County",Baxley,"Baxley city",Track,Track,31513,912,71802013,165673,31.766842,-82.3719362,1
+8381,15021,15,Hawaii,HI,"Hawaii County",Papaikou,Hilo,Track,Track,96781,808,251395429,10656645,19.8228341,-155.1849688,1
+8668,17029,17,Illinois,IL,"Adams County",Quincy,"Camp Point",Track,Track,62301,217,1797926,0,39.9155218,-91.3996396,1
+10099,18025,18,Indiana,IN,"Adams County",Monroe,"Berne city",Track,Track,46772,260,217350232,336926,40.702854,-84.9342356,1
+10803,19025,19,Iowa,IA,"Adair County",Corning,"Greenfield city",Track,Track,50841,641,217392284,496426,40.9482672,-94.8079792,1
+528,20217,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,2494426,0,61.2167015,-149.7927444,1
+529,20227,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,2163759,0,61.2032461,-149.824025,1
+530,20237,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99517,907,1612672,0,61.1879482,-149.9226985,1
+531,20247,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,2731183,0,61.1594375,-149.8193627,1
+532,20257,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99516,907,85707800,11963944,61.0532891,-149.7028074,1
+533,20267,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,4544912,92072,64.8328149,-147.7589866,1
+534,20277,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,63667440,659397,64.8899711,-147.5765503,1
+11638,21029,21,Kentucky,KY,"Adair County",Scottsville,"Columbia city",Track,Track,42164,270,146615136,910948,36.7747795,-86.3386507,1
+12135,22029,22,Louisiana,LA,"Acadia Parish",Crowley,"Crowley city",Track,Track,70526,337,14499766,32281,30.2176279,-92.4030196,1
+12646,23025,23,Maine,ME,"Androscoggin County",Auburn,"Auburn city",Track,Track,4210,207,778737,92987,44.0847939,-70.2233946,1
+12803,24027,24,Maryland,MD,"Allegany County",Cumberland,"Little Orleans",Track,Track,21502,301,1844979,0,39.6329587,-78.7526552,1
+14059,26021,26,Michigan,MI,"Alcona County",Ossineke,"Hubbard Lake",Track,Track,49766,989,131526519,36715247,44.7999576,-83.4969141,1
+15233,27023,27,Minnesota,MN,"Aitkin County",Aitkin,"Aitkin city",Track,Track,56431,218,86586091,8364848,46.5364479,-93.7605741,1
+15874,28025,28,Mississippi,MS,"Adams County",Natchez,Cloverdale,Track,Track,39120,601,20287756,45183,31.5788205,-91.3193442,1
+16195,29024,29,Missouri,MO,"Adair County",Kirksville,"Kirksville city",Track,Track,63501,660,19673132,29331,40.2187946,-92.5581534,1
+16895,30027,30,Montana,MT,"Beaverhead County",Hardin,Wisdom,Track,Track,59034,406,1510103881,3621182,45.6264647,-107.2938916,1
+17043,31027,31,Nebraska,NE,"Adams County",Hastings,Ayr,Track,Track,68901,402,39619115,41134,40.5600896,-98.4097258,1
+17318,32027,32,Nevada,NV,"Churchill County",Fallon,"Fallon city",Track,Track,89406,775,1004235573,24862868,39.3125272,-118.8960291,1
+17583,33022,33,"New Hampshire",NH,"Belknap County",Meredith,Alton,Track,Track,3253,603,35505338,27769408,43.6557882,-71.4426578,1
+17714,34025,34,"New Jersey",NJ,"Atlantic County","Atlantic City","Absecon city",Track,Track,8401,609,267914,85561,39.3573721,-74.4481225,1
+18602,35025,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87111,505,1340724,0,35.1198043,-106.5065506,1
+18842,36024,36,"New York",NY,"Albany County",Albany,"Albany city",Track,Track,12203,518,9017989,134152,42.7025078,-73.8667531,1
+21002,37024,37,"North Carolina",NC,"Alamance County",Burlington,Alamance,Track,Track,27217,336,11558149,306966,36.1207861,-79.4322349,1
+21917,38024,38,"North Dakota",ND,"Adams County","Valley City","Bucyrus city",Track,Track,58072,701,15722603,12647,46.9195898,-98.0216099,1
+22036,39023,39,Ohio,OH,"Adams County","West Union",Rome,Track,Track,45693,937,389153870,170790,38.8403307,-83.5815269,1
+23385,40023,40,Oklahoma,OK,"Adair County",Stilwell,Bell,Track,Track,74960,918,476738892,3081867,35.8021662,-94.7315418,1
+634,40223,4,Arizona,AZ,"Apache County",Pomerene,Chinle,Track,Track,85627,520,1670157893,848039,32.200019,-110.2836792,1
+635,40233,4,Arizona,AZ,"Apache County",Hereford,Chinle,Track,Track,85615,520,329303180,2659035,31.4646753,-110.0397849,1
+636,40243,4,Arizona,AZ,"Apache County","Sierra Vista",Chinle,Track,Track,85635,520,18873357,17237,31.543283,-110.2155629,1
+637,40253,4,Arizona,AZ,"Apache County",Flagstaff,Chinle,Track,Track,86004,928,10587881,21121,35.2275284,-111.5565227,1
+638,40263,4,Arizona,AZ,"Apache County",Flagstaff,Chinle,Track,Track,86004,602,783976367,197325,35.3071243,-111.3838286,1
+639,40273,4,Arizona,AZ,"Apache County","Tuba City",Chinle,Track,Track,86045,928,256564162,114258,36.0513606,-111.1899102,1
+640,40283,4,Arizona,AZ,"Apache County",Young,Chinle,Track,Track,85554,928,1312861414,495118,34.0978185,-111.0155491,1
+23865,41022,41,Oregon,OR,"Baker County","Baker City","Baker City city",Track,Track,97294,541,20004674,0,44.778647,-117.8751526,1
+24252,42024,42,Pennsylvania,PA,"Adams County",Bendersville,Abbottstown,Track,Track,17306,717,111753227,321006,39.97956,-77.3032111,1
+26107,44027,44,"Rhode Island",RI,"Kent County",Warren,Greene,Track,Track,2885,401,3285979,585588,41.7190565,-71.273831,1
+26216,45028,45,"South Carolina",SC,"Abbeville County",Aiken,"Abbeville city",Track,Track,29801,803,248971841,1657406,33.6685561,-81.6441171,1
+26675,46026,46,"South Dakota",SD,"Aurora County",Huron,Storla,Track,Track,57350,605,60986475,34443,44.3344849,-98.2650104,1
+27413,48028,48,Texas,TX,"Anderson County",Palestine,Elkhart,Track,Track,75802,903,290057070,4765543,31.7062457,-95.735873,1
+29974,50025,50,Vermont,VT,"Addison County",Lincoln,Bristol,Track,Track,5443,802,107525418,1714149,44.0978095,-73.0485314,1
+1250,50216,5,Arkansas,AR,"Arkansas County","Mountain Home","Stuttgart city",Track,Track,72653,870,27188908,0,36.3083026,-92.3815903,1
+1251,50226,5,Arkansas,AR,"Arkansas County","Pea Ridge","Stuttgart city",Track,Track,72751,479,60184359,9306,36.4083177,-94.1178442,1
+1252,50236,5,Arkansas,AR,"Arkansas County",Rogers,"Stuttgart city",Track,Track,72756,479,3902433,1203,36.3225266,-94.1371534,1
+1253,50246,5,Arkansas,AR,"Arkansas County","Bella Vista","Stuttgart city",Track,Track,72714,479,31450763,548314,36.4847655,-94.2003287,1
+1254,50256,5,Arkansas,AR,"Arkansas County",Gentry,"Stuttgart city",Track,Track,72734,479,118563666,2690120,36.2844613,-94.513734,1
+1255,50266,5,Arkansas,AR,"Arkansas County",Lowell,"Stuttgart city",Track,Track,72745,479,26438837,265825,36.2487062,-94.1648664,1
+1256,50276,5,Arkansas,AR,"Arkansas County","Valley Springs","Stuttgart city",Track,Track,72682,870,260692961,360416,36.1767389,-92.990687,1
+1257,50286,5,Arkansas,AR,"Arkansas County",Hampton,"Stuttgart city",Track,Track,71744,870,745021840,3811284,33.5406233,-92.4056869,1
+1258,50296,5,Arkansas,AR,"Arkansas County",Eudora,"Stuttgart city",Track,Track,71640,870,193347121,18956600,33.0740956,-91.2394128,1
+30057,51024,51,Virginia,VA,"Accomack County",Parksley,Chincoteague,Track,Track,23421,757,193713682,35808798,37.7523759,-75.5980607,1
+30842,53029,53,Washington,WA,"Adams County",Clarkston,Hatton,Track,Track,99403,509,1586752,0,46.4127102,-117.0673121,1
+31778,55028,55,Wisconsin,WI,"Adams County",Ashland,"Adams city",Track,Track,54806,715,561454913,20975772,46.5031467,-90.6881142,1
+32452,56024,56,Wyoming,WY,"Albany County",Laramie,"Laramie city",Track,Track,82073,307,3602952,25626,41.333679,-105.587904,1
+1590,60219,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94607,510,712081,0,37.8063521,-122.2963073,1
+1591,60229,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94607,510,665991,602434,37.8026482,-122.2626597,1
+1592,60239,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94611,510,230172,0,37.8260219,-122.2510667,1
+1593,60249,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94602,510,800378,0,37.8120851,-122.2190899,1
+1594,60259,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94606,510,519054,0,37.7939452,-122.2330985,1
+1595,60269,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94602,510,747405,0,37.7936093,-122.2079606,1
+1596,60279,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94601,510,511491,0,37.7710407,-122.2067479,1
+1597,60289,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94606,510,542658,0,37.7646056,-122.1709595,1
+1598,60299,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94621,510,1253613,0,37.744613,-122.1803623,1
+25727,72026,72,"Puerto Rico",PR,"Adjuntas Municipio",Adjuntas,Adjuntas,Track,Track,601,787,42529236,210360,18.1555821,-66.7010459,1
+4869,80210,8,Colorado,CO,"Adams County",Bennett,"Brighton city",Track,Track,80102,303,498369267,3695245,39.869555,-104.5174306,1
+4870,80220,8,Colorado,CO,"Adams County",Northglenn,"Brighton city",Track,Track,80233,720,3353028,36543,39.8922024,-104.9538147,1
+4871,80230,8,Colorado,CO,"Adams County",Brighton,"Brighton city",Track,Track,80601,303,6951894,19720,39.9844929,-104.7840078,1
+4872,80240,8,Colorado,CO,"Adams County",Brighton,"Brighton city",Track,Track,80601,303,2176258,5539,39.9947904,-104.8049505,1
+4873,80250,8,Colorado,CO,"Adams County",Thornton,"Brighton city",Track,Track,80229,720,3045819,35494,39.8435802,-104.9708359,1
+4874,80260,8,Colorado,CO,"Adams County",Denver,"Brighton city",Track,Track,80221,303,1666992,33978,39.8433931,-104.9991945,1
+4875,80270,8,Colorado,CO,"Adams County",Northglenn,"Brighton city",Track,Track,80221,720,1289929,0,39.8784199,-105.0105392,1
+4876,80280,8,Colorado,CO,"Adams County",Westminster,"Brighton city",Track,Track,80030,720,2730988,54250,39.8773574,-105.0446513,1
+4877,80290,8,Colorado,CO,"Adams County",Arvada,"Brighton city",Track,Track,80003,303,2964277,426253,39.7983183,-105.0412999,1
+5396,90219,9,Connecticut,CT,"Fairfield County",Stamford,Bethel,Track,Track,6903,203,9354089,401020,41.120556,-73.5498844,1
+5397,90229,9,Connecticut,CT,"Fairfield County",Stamford,Bethel,Track,Track,6906,203,1640443,0,41.051989,-73.5600338,1
+5398,90239,9,Connecticut,CT,"Fairfield County","Old Greenwich",Bethel,Track,Track,6870,203,2724848,865640,41.0332421,-73.5510367,1
+5399,90249,9,Connecticut,CT,"Fairfield County","New Canaan",Bethel,Track,Track,6840,203,20071016,282909,41.17205,-73.4830178,1
+5400,90259,9,Connecticut,CT,"Fairfield County",Norwalk,Bethel,Track,Track,6851,203,1358535,6392,41.1269263,-73.4195177,1
+5401,90269,9,Connecticut,CT,"Fairfield County",Rowayton,Bethel,Track,Track,6850,203,2666223,10614309,41.0584635,-73.4104283,1
+5402,90279,9,Connecticut,CT,"Fairfield County",Westport,Bethel,Track,Track,6880,203,17611667,20712,41.155369,-73.3256267,1
+5403,90289,9,Connecticut,CT,"Fairfield County",Fairfield,Bethel,Track,Track,6890,203,5464820,17867,41.1485647,-73.2877801,1
+5404,90299,9,Connecticut,CT,"Fairfield County",Fairfield,Bethel,Track,Track,6824,203,3641896,540635,41.1438395,-73.2413456,1
+5751,100212,10,Delaware,DE,"Kent County",Dover,Camden,Track,Track,19901,302,2323559,0,39.1529978,-75.5202819,1
+5752,100222,10,Delaware,DE,"Kent County",Woodside,Camden,Track,Track,19980,302,53124393,91667,39.0693287,-75.6033694,1
+5753,100232,10,Delaware,DE,"Kent County",Frederica,Camden,Track,Track,19946,302,66114015,653096,38.9723618,-75.4729061,1
+5754,100242,10,Delaware,DE,"Kent County",Wilmington,Camden,Track,Track,19806,302,414174,0,39.7587401,-75.5631615,1
+5755,100252,10,Delaware,DE,"Kent County",Wilmington,Camden,Track,Track,19805,302,740920,0,39.7414549,-75.5747325,1
+5756,100262,10,Delaware,DE,"Kent County",Claymont,Camden,Track,Track,19703,302,2402621,0,39.7932234,-75.4802454,1
+5757,100272,10,Delaware,DE,"Kent County",Wilmington,Camden,Track,Track,19810,302,3246108,0,39.8176247,-75.4862906,1
+5758,100282,10,Delaware,DE,"Kent County",Wilmington,Camden,Track,Track,19808,302,4521915,0,39.7399294,-75.6280259,1
+5759,100292,10,Delaware,DE,"Kent County",Wilmington,Camden,Track,Track,19808,302,1613787,0,39.7263367,-75.6452156,1
+11,101901,1,Alabama,AL,"Chambers County",Wadley,Abanda,CDP,place,36276,256,7764034,34284,33.091627,-85.527029,1
+12,101910,1,Alabama,AL,"Pickens County",Aliceville,"Aliceville city",City,place,35442,205,11819855,0,33.123686,-88.159364,1
+13,101920,1,Alabama,AL,"Jefferson County",Odenville,Argo,Town,place,35120,205,27893577,150331,33.691576,-86.503766,1
+14,101930,1,Alabama,AL,"Lee County",Auburn,"Auburn city",City,place,36830,334,152375113,2646161,32.607722,-85.489545,1
+15,101940,1,Alabama,AL,"Mobile County","Bayou La Batre","Bayou La Batre city",City,place,36509,251,19400655,368667,30.407586,-88.263271,1
+16,101950,1,Alabama,AL,"Jefferson County",Bessemer,"Bessemer city",City,place,35022,205,104798633,439841,33.370789,-86.971596,1
+17,101960,1,Alabama,AL,"Greene County",Boligee,Boligee,Town,place,35443,205,10231296,36323,32.7681,-88.028579,1
+18,101970,1,Alabama,AL,"Marion County",Brilliant,Brilliant,Town,place,35548,205,27687370,0,34.025353,-87.769145,1
+19,101980,1,Alabama,AL,"Shelby County",Calera,"Calera city",City,place,35040,205,62376107,685210,33.122319,-86.745644,1
+20,101990,1,Alabama,AL,"Pickens County",Carrollton,Carrollton,Town,place,35447,205,5331435,59271,33.261903,-88.095071,1
+21,102106,1,Alabama,AL,"Autauga County",Ohatchee,Autaugaville,Track,Track,36271,256,177682000,7624905,33.7687621,-86.0372827,1
+22,102116,1,Alabama,AL,"Autauga County",Lanett,Autaugaville,Track,Track,36863,334,6948352,0,32.8580358,-85.2066713,1
+23,102126,1,Alabama,AL,"Autauga County",Clanton,Autaugaville,Track,Track,35045,205,64410623,251385,32.8695805,-86.6588881,1
+24,102136,1,Alabama,AL,"Autauga County",Gilbertown,Autaugaville,Track,Track,36908,251,578537985,1836706,31.9275928,-88.3326295,1
+25,102146,1,Alabama,AL,"Autauga County",Jackson,Autaugaville,Track,Track,36545,251,447191122,17991801,31.3573817,-87.8407503,1
+26,102156,1,Alabama,AL,"Autauga County",Jack,Autaugaville,Track,Track,36346,334,208213147,177901,31.5375844,-85.8984006,1
+27,102166,1,Alabama,AL,"Autauga County",Enterprise,Autaugaville,Track,Track,36330,334,40693675,151495,31.3627415,-85.8358304,1
+28,102176,1,Alabama,AL,"Autauga County","Muscle Shoals",Autaugaville,Track,Track,35661,256,8140717,0,34.7471222,-87.6398474,1
+29,102186,1,Alabama,AL,"Autauga County",Evergreen,Autaugaville,Track,Track,36401,251,90973774,334237,31.4626914,-86.9984985,1
+30,102196,1,Alabama,AL,"Autauga County",Andalusia,Autaugaville,Track,Track,36421,334,15438185,163537,31.326445,-86.507274,1
+31,102206,1,Alabama,AL,"Autauga County","Highland Home",Autaugaville,Track,Track,36041,334,226396958,213258,31.949642,-86.3651124,1
+32,102216,1,Alabama,AL,"Autauga County",Vinemont,Autaugaville,Track,Track,35179,256,132870985,838367,34.1589207,-86.9571734,1
+33,102226,1,Alabama,AL,"Autauga County",Cullman,Autaugaville,Track,Track,35057,256,187272055,9574488,34.0103921,-86.9102548,1
+34,102236,1,Alabama,AL,"Autauga County",Ozark,Autaugaville,Track,Track,36360,334,19245046,0,31.3971308,-85.6615834,1
+35,102246,1,Alabama,AL,"Autauga County",Selma,Autaugaville,Track,Track,36701,334,17558229,90685,32.4484185,-87.0509577,1
+36,102256,1,Alabama,AL,"Autauga County",Selma,Autaugaville,Track,Track,36701,334,34291179,1700792,32.3660372,-87.026282,1
+37,102266,1,Alabama,AL,"Autauga County","Ft Payne",Autaugaville,Track,Track,35967,256,131988900,472277,34.3594477,-85.8011776,1
+38,102276,1,Alabama,AL,"Autauga County",Eclectic,Autaugaville,Track,Track,36024,334,165330802,1570890,32.6328834,-86.0345965,1
+39,102286,1,Alabama,AL,"Autauga County",Prattville,Autaugaville,Track,Track,36066,334,31951242,4286137,32.449186,-86.3730508,1
+40,102296,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35901,256,13659980,699379,34.0321863,-85.9730613,1
+41,102306,1,Alabama,AL,"Autauga County",Gadsden,Autaugaville,Track,Track,35901,256,4308625,1900493,33.9993815,-86.010319,1
+42,102316,1,Alabama,AL,"Autauga County",Glencoe,Autaugaville,Track,Track,35905,256,57350608,1090995,33.918413,-85.9183325,1
+43,102326,1,Alabama,AL,"Autauga County",Fayette,Autaugaville,Track,Track,35555,205,311521457,71975,33.8171345,-87.6438256,1
+44,102336,1,Alabama,AL,"Autauga County","Red Bay",Autaugaville,Track,Track,35582,256,191320812,2880300,34.5152306,-88.0797797,1
+45,102346,1,Alabama,AL,"Autauga County",Eutaw,Autaugaville,Track,Track,35462,205,602704133,5380156,32.9585581,-88.0510053,1
+46,102356,1,Alabama,AL,"Autauga County",Abbeville,Autaugaville,Track,Track,36310,334,89705915,139084,31.564689,-85.2591239,1
+47,102366,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36303,334,4123213,0,31.2357975,-85.4197082,1
+48,102376,1,Alabama,AL,"Autauga County",Dothan,Autaugaville,Track,Track,36303,334,44228758,0,31.277139,-85.3841365,1
+49,102386,1,Alabama,AL,"Autauga County",Princeton,Autaugaville,Track,Track,35766,256,552077223,1679095,34.8787834,-86.2279366,1
+50,102396,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35217,205,8002141,0,33.5632457,-86.7640472,1
+51,102406,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35206,205,3605024,0,33.5591908,-86.7233518,1
+52,102416,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35204,205,1778286,0,33.5122579,-86.8441439,1
+53,102426,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35208,205,2232730,0,33.498996,-86.8647606,1
+54,102436,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35204,205,743007,0,33.4945909,-86.834764,1
+55,102446,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35235,205,7956342,39652,33.596713,-86.6763136,1
+56,102456,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35020,205,2076635,0,33.3914623,-86.9487605,1
+57,102466,1,Alabama,AL,"Autauga County",Homewood,Autaugaville,Track,Track,35209,205,3372196,78924,33.4613607,-86.8005817,1
+58,102476,1,Alabama,AL,"Autauga County",Leeds,Autaugaville,Track,Track,35094,205,12786477,133297,33.5565279,-86.5621484,1
+59,102486,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35220,205,7511055,70529,33.6691522,-86.6511913,1
+60,102496,1,Alabama,AL,"Autauga County",Gardendale,Autaugaville,Track,Track,35071,205,40159982,0,33.6758356,-86.7966575,1
+61,102506,1,Alabama,AL,"Autauga County",Graysville,Autaugaville,Track,Track,35073,205,56885352,537614,33.6350049,-86.9946308,1
+62,102516,1,Alabama,AL,"Autauga County",Irondale,Autaugaville,Track,Track,35210,205,26558605,354052,33.5445586,-86.6466397,1
+63,102526,1,Alabama,AL,"Autauga County",Birmingham,Autaugaville,Track,Track,35243,205,12429198,42051,33.4361371,-86.7561579,1
+64,102536,1,Alabama,AL,"Autauga County",Midfield,Autaugaville,Track,Track,35228,205,4006150,0,33.4412981,-86.9424457,1
+65,102546,1,Alabama,AL,"Autauga County",Bessemer,Autaugaville,Track,Track,35022,205,34033783,463549,33.3338629,-86.9127674,1
+66,102556,1,Alabama,AL,"Autauga County",Hoover,Autaugaville,Track,Track,35226,205,18071006,173459,33.3822004,-86.8552686,1
+67,102566,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35630,256,8653066,2906570,34.8120233,-87.624424,1
+68,102576,1,Alabama,AL,"Autauga County",Florence,Autaugaville,Track,Track,35634,256,123190580,594938,34.9616163,-87.5143563,1
+69,102586,1,Alabama,AL,"Autauga County",Trinity,Autaugaville,Track,Track,35673,256,117628141,989972,34.57105,-87.2129882,1
+70,102596,1,Alabama,AL,"Autauga County",Auburn,Autaugaville,Track,Track,36830,334,2907181,14935,32.598547,-85.5163458,1
+71,102606,1,Alabama,AL,"Autauga County",Opelika,Autaugaville,Track,Track,36801,334,4310558,34936,32.6330378,-85.3853644,1
+72,102616,1,Alabama,AL,"Autauga County",Opelika,Autaugaville,Track,Track,36804,334,165626066,864333,32.4970769,-85.4025028,1
+73,102626,1,Alabama,AL,"Autauga County",Athens,Autaugaville,Track,Track,35611,256,10362596,11461,34.8220771,-86.9813141,1
+74,102636,1,Alabama,AL,"Autauga County",Hayneville,Autaugaville,Track,Track,36040,334,408826352,1225673,32.0922981,-86.7776904,1
+75,102646,1,Alabama,AL,"Autauga County",Tuskegee,Autaugaville,Track,Track,36083,334,7583956,405124,32.426005,-85.6917046,1
+76,102656,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35810,256,1995502,0,34.7679304,-86.6346783,1
+77,102666,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35816,256,2365766,0,34.7415924,-86.637675,1
+78,102676,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35801,256,2259086,0,34.7119242,-86.5826594,1
+79,102686,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35802,256,5765482,14747,34.6536811,-86.5262716,1
+80,102696,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35811,256,108073369,583742,34.782744,-86.4057661,1
+81,102706,1,Alabama,AL,"Autauga County",Huntsville,Autaugaville,Track,Track,35806,256,12924198,54647,34.7908679,-86.7292721,1
+82,102716,1,Alabama,AL,"Autauga County",Madison,Autaugaville,Track,Track,35758,256,10927370,11607,34.7176388,-86.7667595,1
+83,102726,1,Alabama,AL,"Autauga County","Dixons Mills",Autaugaville,Track,Track,36736,334,286336268,54771,32.0620795,-87.7277351,1
+84,102736,1,Alabama,AL,"Autauga County",Winfield,Autaugaville,Track,Track,35594,205,154499292,310617,33.9577593,-87.7518284,1
+85,102746,1,Alabama,AL,"Autauga County",Guntersville,Autaugaville,Track,Track,35976,256,43587610,22086593,34.3505036,-86.2555798,1
+86,102756,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36603,251,1589550,15221,30.6993359,-88.0591706,1
+87,102766,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36603,251,1043100,0,30.6868736,-88.060218,1
+88,102776,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36605,251,5320481,984861,30.6020753,-88.0987938,1
+89,102786,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36607,251,3193386,0,30.6950269,-88.1140906,1
+90,102796,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36608,251,5552352,27672,30.6992655,-88.1362176,1
+91,102806,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36608,251,1900631,0,30.6951429,-88.1824851,1
+92,102816,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36693,251,7475705,83074,30.623508,-88.1765802,1
+93,102826,1,Alabama,AL,"Autauga County",Chickasaw,Autaugaville,Track,Track,36611,251,981169,0,30.7618781,-88.0886165,1
+94,102836,1,Alabama,AL,"Autauga County",Semmes,Autaugaville,Track,Track,36575,251,25915097,46015,30.78278,-88.2128056,1
+95,102846,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36695,251,8957994,72201,30.6628949,-88.213545,1
+96,102856,1,Alabama,AL,"Autauga County",Mobile,Autaugaville,Track,Track,36619,251,17212873,25319,30.570406,-88.2179902,1
+97,102866,1,Alabama,AL,"Autauga County",Prichard,Autaugaville,Track,Track,36610,251,1748287,0,30.7432485,-88.081799,1
+98,102876,1,Alabama,AL,"Autauga County",Uriah,Autaugaville,Track,Track,36480,251,427194441,5527227,31.3250054,-87.5991274,1
+99,102886,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,3561874,6703,32.3613688,-86.3289447,1
+100,102896,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36111,334,3213699,0,32.3356893,-86.290787,1
+101,102906,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36108,334,10571245,10928,32.3515219,-86.360195,1
+102,102916,1,Alabama,AL,"Autauga County",Montgomery,Autaugaville,Track,Track,36117,334,3690069,13893,32.3716245,-86.2001367,1
+103,102926,1,Alabama,AL,"Autauga County",Montgmomery,Autaugaville,Track,Track,36109,334,9905497,37080,32.3084355,-86.2231566,1
+104,102936,1,Alabama,AL,"Autauga County",Ramer,Autaugaville,Track,Track,36069,334,322817898,1399522,32.0637351,-86.0722109,1
+105,102946,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35601,256,5750081,112655,34.6096797,-87.0198689,1
+106,102956,1,Alabama,AL,"Autauga County",Decatur,Autaugaville,Track,Track,35603,256,4144053,2397,34.5540918,-87.010172,1
+107,102966,1,Alabama,AL,"Autauga County",Eva,Autaugaville,Track,Track,35621,256,247422337,923083,34.3558416,-86.7007545,1
+108,102976,1,Alabama,AL,"Autauga County",Aliceville,Autaugaville,Track,Track,35442,205,936899340,19721381,33.143676,-88.1111873,1
+109,102986,1,Alabama,AL,"Autauga County",Woodland,Autaugaville,Track,Track,36280,256,259326168,155664,33.3674567,-85.3379448,1
+110,102996,1,Alabama,AL,"Autauga County","Phenix City",Autaugaville,Track,Track,36869,334,20360276,103449,32.4323882,-85.0346206,1
+5840,110211,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20016,202,2931409,144814,38.9237666,-77.0917339,1
+5841,110221,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20015,202,788162,0,38.9653037,-77.0706081,1
+5842,110231,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20011,202,849377,0,38.9525009,-77.0310824,1
+5843,110241,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20011,202,2112346,62657,38.9464323,-77.0404553,1
+5844,110251,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20001,202,204236,0,38.9139237,-77.0111677,1
+5845,110261,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20009,202,204529,0,38.9162076,-77.0388456,1
+5846,110271,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20001,202,263885,0,38.9058868,-77.0243932,1
+5847,110281,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20003,202,688026,246481,38.8688572,-77.0114342,1
+5848,110291,11,"District of Columbia",DC,"District of Columbia",Washington,"Washington city",Track,Track,20003,202,1368066,312407,38.8756862,-77.0013043,1
+5902,120210,12,Florida,FL,"Alachua County",Gainesville,"Gainesville city",Track,Track,32601,352,1835265,629307,29.6304086,-82.3492862,1
+5903,120220,12,Florida,FL,"Alachua County",Gainesville,"Gainesville city",Track,Track,32608,352,1550526,6403,29.624313,-82.361052,1
+5904,120230,12,Florida,FL,"Alachua County",Alachua,"Gainesville city",Track,Track,32615,386,246644630,2661624,29.8668252,-82.5112256,1
+5905,120240,12,Florida,FL,"Alachua County",Gainesville,"Gainesville city",Track,Track,32609,352,270279336,6435899,29.7905613,-82.2860259,1
+5906,120250,12,Florida,FL,"Alachua County",Archer,"Gainesville city",Track,Track,32618,352,123538110,3403087,29.5228298,-82.4729903,1
+5907,120260,12,Florida,FL,"Alachua County","Glen St Mary","Gainesville city",Track,Track,32040,904,128043290,0,30.3012547,-82.1988773,1
+5908,120270,12,Florida,FL,"Alachua County","Panama City","Gainesville city",Track,Track,32404,850,3428366,418406,30.1393297,-85.5862079,1
+5909,120280,12,Florida,FL,"Alachua County","Lynn Haven","Gainesville city",Track,Track,32444,850,8400168,7179281,30.231254,-85.681403,1
+5910,120290,12,Florida,FL,"Alachua County","Panama City","Gainesville city",Track,Track,32405,850,4223020,4060970,30.1800516,-85.7160099,1
+7564,130213,13,Georgia,GA,"Appling County",Newton,"Baxley city",Track,Track,39870,229,415036115,4405309,31.3164297,-84.5480892,1
+7565,130223,13,Georgia,GA,"Appling County",Baldwin,"Baxley city",Track,Track,30511,706,164683574,834530,34.4349644,-83.5178477,1
+7566,130233,13,Georgia,GA,"Appling County",Winder,"Baxley city",Track,Track,30680,770,5653200,15023,33.984387,-83.6972806,1
+7567,130243,13,Georgia,GA,"Appling County",Bethlehem,"Baxley city",Track,Track,30620,770,44725469,1237575,33.9355089,-83.679685,1
+7568,130253,13,Georgia,GA,"Appling County",Cartersville,"Baxley city",Track,Track,30121,770,65532113,7425107,34.1911439,-84.7233765,1
+7569,130263,13,Georgia,GA,"Appling County",Fitzgerald,"Baxley city",Track,Track,31750,229,11613695,175115,31.7247864,-83.22735,1
+7570,130273,13,Georgia,GA,"Appling County",Macon,"Baxley city",Track,Track,31204,478,1343271,0,32.8368044,-83.656547,1
+7571,130283,13,Georgia,GA,"Appling County",Macon,"Baxley city",Track,Track,31204,478,3441378,111018,32.8588167,-83.654242,1
+7572,130293,13,Georgia,GA,"Appling County",Macon,"Baxley city",Track,Track,31206,478,2067550,0,32.7977153,-83.6533104,1
+8382,150211,15,Hawaii,HI,"Hawaii County",Hilo,Hilo,Track,Track,96720,808,28714258,0,19.6533225,-155.107691,1
+8383,150221,15,Hawaii,HI,"Hawaii County",Kealakekua,Hilo,Track,Track,96750,808,41942368,6313950,19.5313698,-155.8934061,1
+8384,150231,15,Hawaii,HI,"Hawaii County",Honokaa,Hilo,Track,Track,96727,808,298755649,32762078,20.0835705,-155.5748758,1
+8385,150241,15,Hawaii,HI,"Hawaii County",Papaikou,Hilo,Track,Track,96781,808,0,95614397,19.8533542,-155.0675452,1
+8386,150251,15,Hawaii,HI,"Hawaii County",Honolulu,Hilo,Track,Track,96825,808,7900462,0,21.3049586,-157.7078656,1
+8387,150261,15,Hawaii,HI,"Hawaii County",Honolulu,Hilo,Track,Track,96816,808,6183552,0,21.3017383,-157.7704867,1
+8388,150271,15,Hawaii,HI,"Hawaii County",Honolulu,Hilo,Track,Track,96816,808,825915,0,21.3018484,-157.793422,1
+8389,150281,15,Hawaii,HI,"Hawaii County",Honolulu,Hilo,Track,Track,96815,808,146044,0,21.27411,-157.8193138,1
+8390,150291,15,Hawaii,HI,"Hawaii County",Honolulu,Hilo,Track,Track,96826,808,238350,41274,21.2862693,-157.8286164,1
+8519,160210,16,Idaho,ID,"Ada County",Boise,"Boise City city",Track,Track,83712,208,2787586,81547,43.6066784,-116.180455,1
+8520,160220,16,Idaho,ID,"Ada County",Boise,"Boise City city",Track,Track,83706,208,3314538,7051,43.6200302,-116.2623701,1
+8521,160230,16,Idaho,ID,"Ada County",Boise,"Boise City city",Track,Track,83709,208,5246595,5447,43.5536497,-116.3132875,1
+8522,160240,16,Idaho,ID,"Ada County",Boise,"Boise City city",Track,Track,83713,208,4932496,17999,43.6468487,-116.3270785,1
+8523,160250,16,Idaho,ID,"Ada County",Meridian,"Boise City city",Track,Track,83646,208,22439673,224491,43.6550333,-116.3691111,1
+8524,160260,16,Idaho,ID,"Ada County","New Meadows","Boise City city",Track,Track,83654,208,1012869260,6116462,45.0199817,-116.3181613,1
+8525,160270,16,Idaho,ID,"Ada County",Pocatello,"Boise City city",Track,Track,83201,208,1520224,0,42.881051,-112.4345132,1
+8526,160280,16,Idaho,ID,"Ada County",Pocatello,"Boise City city",Track,Track,83204,208,14066271,69480,42.8136937,-112.423757,1
+8527,160290,16,Idaho,ID,"Ada County",Firth,"Boise City city",Track,Track,83236,208,1233204799,1647526,43.1910953,-111.872456,1
+8669,170219,17,Illinois,IL,"Adams County",Tamms,"Camp Point",Track,Track,62988,618,282780009,5088841,37.2939184,-89.3521215,1
+8670,170229,17,Illinois,IL,"Adams County",Belvidere,"Camp Point",Track,Track,61008,815,3938550,864,42.2435995,-88.8528182,1
+8671,170239,17,Illinois,IL,"Adams County",Malden,"Camp Point",Track,Track,61337,815,284049450,8123335,41.3806062,-89.3207034,1
+8672,170249,17,Illinois,IL,"Adams County",Savanna,"Camp Point",Track,Track,61074,815,353957124,31766457,42.1216075,-90.0794726,1
+8673,170259,17,Illinois,IL,"Adams County",Champaign,"Camp Point",Track,Track,61820,217,1415371,0,40.1242035,-88.2329099,1
+8674,170269,17,Illinois,IL,"Adams County",Champaign,"Camp Point",Track,Track,61821,217,2507512,18780,40.1168919,-88.2713796,1
+8675,170279,17,Illinois,IL,"Adams County",Champaign,"Camp Point",Track,Track,61820,217,4615620,67785,40.1304989,-88.2164901,1
+8676,170289,17,Illinois,IL,"Adams County",Rantoul,"Camp Point",Track,Track,61866,217,15157376,13421,40.3337454,-88.1424525,1
+8677,170299,17,Illinois,IL,"Adams County",Tolono,"Camp Point",Track,Track,61880,217,470153664,318575,39.9756051,-88.3148063,1
+10100,180215,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46808,260,2668998,39796,41.0966773,-85.1622524,1
+10101,180225,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46802,260,7441091,0,41.0596185,-85.1755897,1
+10102,180235,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46825,260,4762403,0,41.1203116,-85.1353539,1
+10103,180245,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46825,260,2196477,0,41.1299428,-85.1062823,1
+10104,180255,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46818,260,8880387,0,41.1918532,-85.1512959,1
+10105,180265,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46835,260,5233911,0,41.1273745,-85.0715283,1
+10106,180275,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46815,260,2906130,49904,41.1033959,-85.0713673,1
+10107,180285,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46806,260,4408099,0,41.0280157,-85.0980381,1
+10108,180295,18,Indiana,IN,"Adams County","Fort Wayne","Berne city",Track,Track,46814,260,17457912,0,41.0744782,-85.3059832,1
+10804,190215,19,Iowa,IA,"Adair County",Centerville,"Greenfield city",Track,Track,52544,641,527223620,511654,40.6535381,-92.9104129,1
+10805,190225,19,Iowa,IA,"Adair County","Belle Plaine","Greenfield city",Track,Track,52208,319,42243866,209780,41.8983696,-92.2665079,1
+10806,190235,19,Iowa,IA,"Adair County",Waterloo,"Greenfield city",Track,Track,50702,319,1301453,0,42.4802947,-92.3473302,1
+10807,190245,19,Iowa,IA,"Adair County",Waterloo,"Greenfield city",Track,Track,50703,319,8729456,24014,42.5356127,-92.3475243,1
+10808,190255,19,Iowa,IA,"Adair County","Cedar Falls","Greenfield city",Track,Track,50613,319,17417710,337946,42.4903663,-92.4396181,1
+10809,190265,19,Iowa,IA,"Adair County",Boone,"Greenfield city",Track,Track,50036,515,6376686,0,42.0710835,-93.8688778,1
+10810,190275,19,Iowa,IA,"Adair County",Tripoli,"Greenfield city",Track,Track,50676,319,256290808,1379544,42.7799658,-92.3648873,1
+10811,190285,19,Iowa,IA,"Adair County","Albert City","Greenfield city",Track,Track,50510,712,334611810,722828,42.8292289,-95.022919,1
+10812,190295,19,Iowa,IA,"Adair County","Shell Rock","Greenfield city",Track,Track,50670,319,197026816,598061,42.6491563,-92.6061557,1
+11257,200210,20,Kansas,KS,"Allen County",Atchison,"Gas city",Track,Track,66002,913,35290146,600611,39.534808,-95.1549365,1
+11258,200220,20,Kansas,KS,"Allen County","Great Bend","Gas city",Track,Track,67530,620,2177128,0,38.3625549,-98.7655266,1
+11259,200230,20,Kansas,KS,"Allen County",Rosalia,"Gas city",Track,Track,67132,620,1964620871,38110683,37.8457744,-96.7222626,1
+11260,200240,20,Kansas,KS,"Allen County",Augusta,"Gas city",Track,Track,67010,316,366873058,1055066,37.6139204,-96.9262497,1
+11261,200250,20,Kansas,KS,"Allen County","Baxter Springs","Gas city",Track,Track,66713,620,29544648,301809,37.024852,-94.7483676,1
+11262,200260,20,Kansas,KS,"Allen County",Burlington,"Gas city",Track,Track,66839,620,742117945,41731808,38.2418396,-95.8579002,1
+11263,200270,20,Kansas,KS,"Allen County","Arkansas City","Gas city",Track,Track,67005,620,23066298,607023,37.095936,-97.0740216,1
+11264,200280,20,Kansas,KS,"Allen County",Pittsburg,"Gas city",Track,Track,66762,620,20390578,353504,37.4327037,-94.7505413,1
+11265,200290,20,Kansas,KS,"Allen County",Abilene,"Gas city",Track,Track,67410,785,16217061,11398,38.924369,-97.1987225,1
+537,201360,2,Alaska,AK,"Kusilvak Census Area",Alakanuk,"Alakanuk city",City,place,99554,907,76485032,26008972,62.71116,-164.644712,1
+538,201370,2,Alaska,AK,"Denali Borough",Anderson,"Anderson city",City,place,99744,907,113285111,9169124,64.308281,-149.163187,1
+539,201380,2,Alaska,AK,"North Slope Borough",Barrow,"Barrow city",City,place,99723,907,48786920,6890236,71.2535,-156.800072,1
+540,201390,2,Alaska,AK,"Northwest Arctic Borough",Buckland,"Buckland city",City,place,99727,907,3640031,417369,65.975886,-161.138732,1
+541,201400,2,Alaska,AK,"Kusilvak Census Area",Chevak,"Chevak city",City,place,99563,907,2562639,54920,61.531066,-165.597199,1
+542,201410,2,Alaska,AK,"Bethel Census Area",Chuathbaluk,"Chuathbaluk city",City,place,99557,907,8976837,4460271,61.575539,-159.24707,1
+543,201420,2,Alaska,AK,"Valdez-Cordova Census Area","Copper Center","Copper Center",CDP,place,99573,907,32391024,0,61.984549,-145.354343,1
+544,201430,2,Alaska,AK,"Dillingham Census Area",Dillingham,"Dillingham city",City,place,99576,907,86946428,7195792,59.060472,-158.532223,1
+545,201440,2,Alaska,AK,"Fairbanks North Star Borough","Eielson Afb","Eielson AFB",CDP,place,99702,907,76750273,3708848,64.6733,-147.059464,1
+546,201450,2,Alaska,AK,"Aleutians East Borough","False Pass","False Pass city",City,place,99583,907,69890025,106542449,54.872441,-163.334268,1
+547,201460,2,Alaska,AK,"Kenai Peninsula Borough",Homer,"Fox River",CDP,place,99603,907,324760949,7471113,59.894505,-151.007044,1
+548,201470,2,Alaska,AK,"Fairbanks North Star Borough",Fairbanks,Goldstream,CDP,place,99709,907,222739445,95236,64.951999,-147.970602,1
+549,201480,2,Alaska,AK,"Denali Borough",Healy,Healy,CDP,place,99743,907,1779228859,525614,63.959632,-148.970842,1
+550,201490,2,Alaska,AK,"Yukon-Koyukuk Census Area",Hughes,"Hughes city",City,place,99745,907,7799108,0,66.044722,-154.237175,1
+551,201500,2,Alaska,AK,"North Slope Borough",Kaktovik,"Kaktovik city",City,place,99747,907,1869960,583166,70.121285,-143.627752,1
+552,201510,2,Alaska,AK,"Northwest Arctic Borough",Kiana,"Kiana city",City,place,99749,907,482353,0,66.971322,-160.437625,1
+553,201520,2,Alaska,AK,"Kodiak Island Borough",Kodiak,"Kodiak city",City,place,99615,907,9003031,4042002,57.792391,-152.404536,1
+554,201530,2,Alaska,AK,"Bethel Census Area",Kwethluk,"Kwethluk city",City,place,99621,907,26047286,4035211,60.793216,-161.43139,1
+555,201540,2,Alaska,AK,"Ketchikan Gateway Borough",Ketchikan,Loring,CDP,place,99901,907,1434002,200593,55.606676,-131.639976,1
+556,201550,2,Alaska,AK,"Bethel Census Area",Mekoryuk,"Mekoryuk city",City,place,99630,907,16491474,14094,60.370781,-166.266749,1
+557,201560,2,Alaska,AK,"Haines Borough",Haines,"Mud Bay",CDP,place,99827,907,31359224,62881,59.151183,-135.356493,1
+558,201570,2,Alaska,AK,"Yukon-Koyukuk Census Area",Allakaket,"New Allakaket",CDP,place,99720,907,6350272,978129,66.538603,-152.621292,1
+559,201580,2,Alaska,AK,"Northwest Arctic Borough",Noatak,Noatak,CDP,place,99761,907,41968766,1778545,67.589497,-163.010332,1
+560,201590,2,Alaska,AK,"Kusilvak Census Area","Sheldon Point","Nunam Iqua city",City,place,99666,907,31421019,16447187,62.506535,-164.900384,1
+561,201600,2,Alaska,AK,"Petersburg Borough",Petersburg,Petersburg,CDP,place,99833,907,114295601,3884325,56.754283,-132.873808,1
+562,201610,2,Alaska,AK,"Matanuska-Susitna Borough",Anchorage,"Point MacKenzie",CDP,place,99501,907,395024280,6304383,61.355597,-150.16935,1
+563,201620,2,Alaska,AK,"Prince of Wales-Hyder Census Area","Port Protection","Port Protection",CDP,place,99950,907,9645413,475410,56.331881,-133.60642,1
+564,201630,2,Alaska,AK,"Aleutians West Census Area","St. George","St. George city",City,place,99591,907,90002615,382165049,56.592794,-169.624378,1
+565,201640,2,Alaska,AK,"Northwest Arctic Borough",Selawik,"Selawik city",City,place,99770,907,7582133,3060641,66.590751,-160.001206,1
+566,201650,2,Alaska,AK,"Skagway Municipality",Skagway,Skagway,CDP,place,99840,907,24478109,123838,59.46436,-135.275151,1
+567,201660,2,Alaska,AK,"Yukon-Koyukuk Census Area","Stevens Village","Stevens Village",CDP,place,99774,907,30141336,4265921,66.023707,-149.080314,1
+568,201670,2,Alaska,AK,"Yukon-Koyukuk Census Area",Tanana,"Tanana city",City,place,99777,907,28595093,12025525,65.184555,-152.054643,1
+569,201680,2,Alaska,AK,"Valdez-Cordova Census Area",Glennallen,Tolsona,CDP,place,99588,907,117291576,3076197,62.068635,-146.123116,1
+570,201690,2,Alaska,AK,"Nome Census Area",Unalakleet,"Unalakleet city",City,place,99684,907,9411703,6659734,63.895578,-160.798136,1
+571,201700,2,Alaska,AK,"Southeast Fairbanks Census Area","Delta Junction",Whitestone,CDP,place,99737,907,18298887,0,64.152838,-145.906385,1
+574,202127,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99687,907,55682951,803774,61.5191219,-149.6716836,1
+575,202137,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99654,907,18404160,1898395,61.5861668,-149.3235509,1
+579,202177,2,Alaska,AK,"Aleutians East Borough",Chugiak,"Akutan city",Track,Track,99567,907,168793575,15079525,61.3488245,-149.3997957,1
+580,202187,2,Alaska,AK,"Aleutians East Borough","Eagle River","Akutan city",Track,Track,99577,907,14753110,260379,61.3098218,-149.5060219,1
+581,202197,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99501,907,2371512,9966854,61.2295599,-149.8930372,1
+582,202207,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99504,907,1979230,0,61.2170818,-149.7672141,1
+583,202217,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99504,907,2936374,0,61.2233721,-149.7233267,1
+584,202227,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,2338007,0,61.2030942,-149.7923741,1
+585,202237,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99501,907,1749931,0,61.2102868,-149.8759839,1
+586,202247,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99517,907,2720664,6843539,61.2011597,-149.9490164,1
+587,202257,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,3335293,36177,61.1918104,-149.8532543,1
+588,202267,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99508,907,4978010,175004,61.1910849,-149.803004,1
+589,202277,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99504,907,2525341,102891,61.2022012,-149.7644057,1
+590,202287,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,1748053,0,61.1738815,-149.848285,1
+591,202297,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99503,907,4483867,0,61.1839061,-149.8805455,1
+592,202307,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99517,907,1612672,0,61.1879482,-149.9226985,1
+593,202317,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99502,907,50814201,225502518,61.1648107,-150.1778033,1
+594,202327,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99502,907,4184086,19798,61.1478499,-149.9252509,1
+595,202337,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99518,907,4577740,0,61.1593799,-149.8999659,1
+596,202347,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,2731183,0,61.1594375,-149.8193627,1
+597,202357,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99515,907,7416313,22755652,61.122781,-149.9633763,1
+598,202367,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99507,907,1978662,0,61.130389,-149.8453664,1
+599,202377,2,Alaska,AK,"Aleutians East Borough",Anchorage,"Akutan city",Track,Track,99516,907,3601953,0,61.1015721,-149.8226304,1
+600,202387,2,Alaska,AK,"Aleutians East Borough",Girdwood,"Akutan city",Track,Track,99587,907,1404917227,154085085,60.9724621,-149.0849841,1
+601,202397,2,Alaska,AK,"Aleutians East Borough",Bethel,"Akutan city",Track,Track,99559,907,567034388,27957930,60.8141554,-161.8508097,1
+602,202407,2,Alaska,AK,"Aleutians East Borough",Dillingham,"Akutan city",Track,Track,99576,907,409651993,7194810,58.9684384,-158.6734216,1
+603,202417,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,3313124,0,64.8278726,-147.7246662,1
+604,202427,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99709,907,4661153,272144,64.8542939,-147.7832776,1
+605,202437,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99701,907,37463502,13613806,64.8042687,-147.8115419,1
+606,202447,2,Alaska,AK,"Aleutians East Borough",Fairbanks,"Akutan city",Track,Track,99709,907,81642676,241746,64.9027074,-147.7951782,1
+607,202457,2,Alaska,AK,"Aleutians East Borough","North Pole","Akutan city",Track,Track,99705,907,127539635,2040600,64.7752542,-147.2484609,1
+610,202487,2,Alaska,AK,"Aleutians East Borough",Juneau,"Akutan city",Track,Track,99801,907,7489229,36094,58.3972,-134.5719857,1
+613,202517,2,Alaska,AK,"Aleutians East Borough",Kenai,"Akutan city",Track,Track,99611,907,74051354,139942927,60.5838565,-151.3261799,1
+614,202527,2,Alaska,AK,"Aleutians East Borough",Nikolaevsk,"Akutan city",Track,Track,99556,907,1502551013,1396368032,59.8999551,-151.5703879,1
+615,202537,2,Alaska,AK,"Aleutians East Borough","Fritz Creek","Akutan city",Track,Track,99603,907,521288307,76418835,59.8068599,-151.1233016,1
+616,202547,2,Alaska,AK,"Aleutians East Borough",Ketchikan,"Akutan city",Track,Track,99901,907,13478407,1172057,55.3715161,-131.6695939,1
+619,202577,2,Alaska,AK,"Aleutians East Borough",Palmer,"Akutan city",Track,Track,99645,907,392213426,2096459,61.7170925,-149.1964285,1
+620,202587,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99687,907,55682951,803774,61.5191219,-149.6716836,1
+621,202597,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99645,907,137183317,1549300,61.661322,-149.4872195,1
+622,202607,2,Alaska,AK,"Aleutians East Borough",Wasilla,"Akutan city",Track,Track,99654,907,12673363,2026311,61.6021527,-149.3433531,1
+623,202617,2,Alaska,AK,"Aleutians East Borough",Palmer,"Akutan city",Track,Track,99645,907,409022670,76506432,61.5337269,-148.9877062,1
+624,202627,2,Alaska,AK,"Aleutians East Borough",Nome,"Akutan city",Track,Track,99762,907,1908739435,562656735,64.6079069,-165.453872,1
+627,202657,2,Alaska,AK,"Aleutians East Borough",Metlakatla,"Akutan city",Track,Track,99926,907,343946421,213611590,55.138352,-131.4704235,1
+628,202667,2,Alaska,AK,"Aleutians East Borough",Sitka,"Akutan city",Track,Track,99835,907,17109651,32661843,57.0451454,-135.3522511,1
+11639,210219,21,Kentucky,KY,"Adair County","La Center","Columbia city",Track,Track,42056,270,300736801,26364500,37.1063457,-88.9577573,1
+11640,210229,21,Kentucky,KY,"Adair County",Glasgow,"Columbia city",Track,Track,42141,270,184241845,1458064,36.9094343,-85.8119017,1
+11641,210239,21,Kentucky,KY,"Adair County",Middlesboro,"Columbia city",Track,Track,40965,606,72932840,334408,36.6418622,-83.6553543,1
+11642,210249,21,Kentucky,KY,"Adair County",Florence,"Columbia city",Track,Track,41042,859,10452523,20579,38.9632762,-84.6547243,1
+11643,210259,21,Kentucky,KY,"Adair County",Burlington,"Columbia city",Track,Track,41005,859,17842009,0,39.0241658,-84.7390892,1
+11644,210269,21,Kentucky,KY,"Adair County",Paris,"Columbia city",Track,Track,40361,859,142831186,1056521,38.2484663,-84.3488025,1
+11645,210279,21,Kentucky,KY,"Adair County",Ashland,"Columbia city",Track,Track,41102,606,14091079,14681,38.4741089,-82.6880589,1
+11646,210289,21,Kentucky,KY,"Adair County",Danville,"Columbia city",Track,Track,40422,859,93972485,766177,37.6561296,-84.8324774,1
+11647,210299,21,Kentucky,KY,"Adair County",Booneville,"Columbia city",Track,Track,41314,606,175652799,702297,37.4342316,-83.5067235,1
+12136,220219,22,Louisiana,LA,"Acadia Parish",Gonzales,"Crowley city",Track,Track,70737,225,15877579,51280,30.2658616,-90.8915738,1
+12137,220229,22,Louisiana,LA,"Acadia Parish",Sorrento,"Crowley city",Track,Track,70778,225,67876718,711996,30.1808735,-90.896376,1
+12138,220239,22,Louisiana,LA,"Acadia Parish",Effie,"Crowley city",Track,Track,71331,318,308769693,13465522,31.2572436,-92.1131482,1
+12139,220249,22,Louisiana,LA,"Acadia Parish",Deridder,"Crowley city",Track,Track,70634,337,20768487,146458,30.8508463,-93.2771867,1
+12140,220259,22,Louisiana,LA,"Acadia Parish",Shreveport,"Crowley city",Track,Track,71107,318,6373535,845304,32.5381688,-93.7422405,1
+12141,220269,22,Louisiana,LA,"Acadia Parish",Haughton,"Crowley city",Track,Track,71037,318,86091171,2291002,32.5048817,-93.5961381,1
+12142,220279,22,Louisiana,LA,"Acadia Parish","Plain Dealing","Crowley city",Track,Track,71064,318,929630965,17373216,32.8593287,-93.661428,1
+12143,220289,22,Louisiana,LA,"Acadia Parish",Shreveport,"Crowley city",Track,Track,71105,318,2160151,6678,32.4749329,-93.7298919,1
+12144,220299,22,Louisiana,LA,"Acadia Parish",Shreveport,"Crowley city",Track,Track,71108,318,2701587,0,32.4632248,-93.7664774,1
+12647,230215,23,Maine,ME,"Androscoggin County",Lewiston,"Auburn city",Track,Track,4240,207,6152011,20674,44.1054804,-70.1839666,1
+12648,230225,23,Maine,ME,"Androscoggin County","Livermore Falls","Auburn city",Track,Track,4254,207,50974350,1916723,44.4453367,-70.1380761,1
+12649,230235,23,Maine,ME,"Androscoggin County",Ashland,"Auburn city",Track,Track,4732,207,578670220,17525781,46.6432179,-68.4290433,1
+12650,230245,23,Maine,ME,"Androscoggin County","Presque Isle","Auburn city",Track,Track,4769,207,62088319,2291531,46.6379614,-68.0064743,1
+12651,230255,23,Maine,ME,"Androscoggin County",Portland,"Auburn city",Track,Track,4101,207,1674759,1193150,43.6518305,-70.2573242,1
+12652,230265,23,Maine,ME,"Androscoggin County",Portland,"Auburn city",Track,Track,4103,207,1675754,0,43.6742649,-70.2960794,1
+12653,230275,23,Maine,ME,"Androscoggin County",Westbrook,"Auburn city",Track,Track,4092,207,14344040,132111,43.7179635,-70.3454962,1
+12654,230285,23,Maine,ME,"Androscoggin County","Cape Elizabeth","Auburn city",Track,Track,4107,207,10187671,6123787,43.617979,-70.2230683,1
+12655,230295,23,Maine,ME,"Androscoggin County","North Yarmouth","Auburn city",Track,Track,4097,207,54961238,501695,43.8460922,-70.2417983,1
+12804,240217,24,Maryland,MD,"Allegany County",Frostburg,"Little Orleans",Track,Track,21532,301,20786846,17961,39.6898438,-78.9301097,1
+12805,240227,24,Maryland,MD,"Allegany County",Harwood,"Little Orleans",Track,Track,20776,410,101098448,0,38.8895132,-76.6408656,1
+12806,240237,24,Maryland,MD,"Allegany County",Annapolis,"Little Orleans",Track,Track,21403,410,7347539,2848979,38.96222,-76.5264133,1
+12807,240247,24,Maryland,MD,"Allegany County",Annapolis,"Little Orleans",Track,Track,21401,410,2867878,54878,38.9744714,-76.5187837,1
+12808,240257,24,Maryland,MD,"Allegany County","Glen Burnie","Little Orleans",Track,Track,21060,410,2052526,30454,39.153714,-76.6069592,1
+12809,240267,24,Maryland,MD,"Allegany County","Severna Park","Little Orleans",Track,Track,21146,410,6879478,4554617,39.065269,-76.5574189,1
+12810,240277,24,Maryland,MD,"Allegany County",Arnold,"Little Orleans",Track,Track,21012,410,2714789,956783,39.0594163,-76.5171807,1
+12811,240287,24,Maryland,MD,"Allegany County",Pasadena,"Little Orleans",Track,Track,21122,410,2238648,401032,39.1448828,-76.5344283,1
+12812,240297,24,Maryland,MD,"Allegany County",Odenton,"Little Orleans",Track,Track,21113,410,3450462,0,39.1063511,-76.7124542,1
+13389,250210,25,Massachusetts,MA,"Barnstable County",Brewster,"Barnstable Town city",Track,Track,2631,508,28281471,3216438,41.7434923,-70.1008617,1
+13390,250220,25,Massachusetts,MA,"Barnstable County","West Yarmouth","Barnstable Town city",Track,Track,2673,508,9157729,854963,41.7147036,-70.237039,1
+13391,250230,25,Massachusetts,MA,"Barnstable County",Centerville,"Barnstable Town city",Track,Track,2632,508,9606912,902423,41.6439568,-70.342159,1
+13392,250240,25,Massachusetts,MA,"Barnstable County",Bournedale,"Barnstable Town city",Track,Track,2532,508,13712963,3080665,41.7642675,-70.5943891,1
+13393,250250,25,Massachusetts,MA,"Barnstable County",Falmouth,"Barnstable Town city",Track,Track,2540,508,5278773,549033,41.5551393,-70.6057531,1
+13394,250260,25,Massachusetts,MA,"Barnstable County",Pittsfield,"Barnstable Town city",Track,Track,1201,413,2747524,21953,42.4680494,-73.241982,1
+13395,250270,25,Massachusetts,MA,"Barnstable County",Lenox,"Barnstable Town city",Track,Track,1240,413,54958356,1168734,42.3678582,-73.2697633,1
+13396,250280,25,Massachusetts,MA,"Barnstable County",Cheshire,"Barnstable Town city",Track,Track,1225,413,69434056,1827436,42.5651072,-73.1491424,1
+13397,250290,25,Massachusetts,MA,"Barnstable County",Sheffield,"Barnstable Town city",Track,Track,1257,413,121445552,2630669,42.0984359,-73.2419781,1
+14060,260211,26,Michigan,MI,"Alcona County",Holland,"Hubbard Lake",Track,Track,49423,616,29605635,120800,42.7430096,-86.1872019,1
+14061,260221,26,Michigan,MI,"Alcona County","South Haven","Hubbard Lake",Track,Track,49090,269,100839138,175081,42.4595595,-86.1982287,1
+14062,260231,26,Michigan,MI,"Alcona County",Holland,"Hubbard Lake",Track,Track,49423,616,5228796,0,42.7617252,-86.1170752,1
+14063,260241,26,Michigan,MI,"Alcona County",Alpena,"Hubbard Lake",Track,Track,49707,989,21763146,1218290,45.1087215,-83.496346,1
+14064,260251,26,Michigan,MI,"Alcona County","Elk Rapids","Hubbard Lake",Track,Track,49629,231,37582096,35142721,44.9229643,-85.400096,1
+14065,260261,26,Michigan,MI,"Alcona County",Skanee,"Hubbard Lake",Track,Track,49962,906,1083345217,85220803,46.7423282,-88.237294,1
+14066,260271,26,Michigan,MI,"Alcona County","Battle Creek","Hubbard Lake",Track,Track,49017,269,182238830,6065680,42.5043019,-85.2457044,1
+14067,260281,26,Michigan,MI,"Alcona County","Bay City","Hubbard Lake",Track,Track,48708,989,3379229,791993,43.5565351,-83.9000918,1
+14068,260291,26,Michigan,MI,"Alcona County","Bay City","Hubbard Lake",Track,Track,48706,989,53040614,352263,43.6238113,-83.9865843,1
+15234,270213,27,Minnesota,MN,"Aitkin County",Cedar,"Aitkin city",Track,Track,55011,763,59387413,2451735,45.3405302,-93.3009539,1
+15235,270223,27,Minnesota,MN,"Aitkin County",Andover,"Aitkin city",Track,Track,55304,763,12953154,87984,45.2453044,-93.2883207,1
+15236,270233,27,Minnesota,MN,"Aitkin County",Centerville,"Aitkin city",Track,Track,55038,763,5507622,725279,45.1635151,-93.0542963,1
+15237,270243,27,Minnesota,MN,"Aitkin County",Anoka,"Aitkin city",Track,Track,55303,763,6078485,273872,45.2207644,-93.3755991,1
+15238,270253,27,Minnesota,MN,"Aitkin County",Blaine,"Aitkin city",Track,Track,55434,763,2165694,0,45.1533472,-93.2718804,1
+15239,270263,27,Minnesota,MN,"Aitkin County",Blaine,"Aitkin city",Track,Track,55434,763,4143246,9529,45.157438,-93.2486536,1
+15240,270273,27,Minnesota,MN,"Aitkin County","Circle Pines","Aitkin city",Track,Track,55014,763,4627218,502076,45.1481148,-93.1424658,1
+15241,270283,27,Minnesota,MN,"Aitkin County","Columbia Heights","Aitkin city",Track,Track,55421,763,2221749,113315,45.0549485,-93.239614,1
+15242,270293,27,Minnesota,MN,"Aitkin County","Detroit Lakes","Aitkin city",Track,Track,56501,218,127127103,13658164,46.8984992,-95.8726267,1
+15875,280215,28,Mississippi,MS,"Adams County",Glen,Cloverdale,Track,Track,38846,662,194290594,178259,34.8398356,-88.4208862,1
+15876,280225,28,Mississippi,MS,"Adams County",Kosciusko,Cloverdale,Track,Track,39090,662,14881562,80786,33.0601683,-89.6104243,1
+15877,280235,28,Mississippi,MS,"Adams County",Cleveland,Cloverdale,Track,Track,38732,662,3726761,0,33.7290721,-90.7189346,1
+15878,280245,28,Mississippi,MS,"Adams County",Houston,Cloverdale,Track,Track,38851,662,85715537,241399,33.9070463,-88.9961842,1
+15879,280255,28,Mississippi,MS,"Adams County",Quitman,Cloverdale,Track,Track,39355,601,437813082,426513,31.9314905,-88.8105927,1
+15880,280265,28,Mississippi,MS,"Adams County",Clarksdale,Cloverdale,Track,Track,38614,662,9742799,0,34.2112468,-90.575222,1
+15881,280275,28,Mississippi,MS,"Adams County",Collins,Cloverdale,Track,Track,39428,601,321715377,625422,31.7052693,-89.4894983,1
+15882,280285,28,Mississippi,MS,"Adams County","Horn Lake",Cloverdale,Track,Track,38637,662,9159897,91354,34.9435765,-90.0317825,1
+15883,280295,28,Mississippi,MS,"Adams County",Southaven,Cloverdale,Track,Track,38671,662,4291292,18001,34.9702724,-89.9874249,1
+16196,290214,29,Missouri,MO,"Adair County",Vandalia,"Kirksville city",Track,Track,63382,573,32573197,129771,39.3059738,-91.4929857,1
+16197,290224,29,Missouri,MO,"Adair County",Washburn,"Kirksville city",Track,Track,65772,417,338109026,2071841,36.559307,-93.9359366,1
+16198,290234,29,Missouri,MO,"Adair County","Rich Hill","Kirksville city",Track,Track,64779,417,534162946,20602944,38.1327812,-94.2198748,1
+16199,290244,29,Missouri,MO,"Adair County",Columbia,"Kirksville city",Track,Track,65201,573,896933,0,38.9556765,-92.3156673,1
+16200,290254,29,Missouri,MO,"Adair County",Columbia,"Kirksville city",Track,Track,65203,573,24037432,122914,38.889377,-92.3779643,1
+16201,290264,29,Missouri,MO,"Adair County",Ashland,"Kirksville city",Track,Track,65010,573,244986487,4245257,38.7545048,-92.2408962,1
+16202,290274,29,Missouri,MO,"Adair County","St Joseph","Kirksville city",Track,Track,64505,816,6359704,2574,39.8086984,-94.8282884,1
+16203,290284,29,Missouri,MO,"Adair County","St Joseph","Kirksville city",Track,Track,64505,816,1514154,0,39.7714144,-94.8521433,1
+16204,290294,29,Missouri,MO,"Adair County",Easton,"Kirksville city",Track,Track,64443,816,350267739,3981207,39.6898354,-94.6730597,1
+16896,300217,30,Montana,MT,"Beaverhead County","Red Lodge",Wisdom,Track,Track,59068,406,30918180,78202,45.2120865,-109.2460093,1
+16897,300227,30,Montana,MT,"Beaverhead County","Great Falls",Wisdom,Track,Track,59403,406,1591811,0,47.4996775,-111.2729863,1
+16898,300237,30,Montana,MT,"Beaverhead County","Great Falls",Wisdom,Track,Track,59403,406,65289369,3811115,47.4415045,-111.3685391,1
+16899,300247,30,Montana,MT,"Beaverhead County",Helena,Wisdom,Track,Track,59620,406,7903663,0,46.4137181,-105.8137475,1
+16900,300257,30,Montana,MT,"Beaverhead County",Anaconda,Wisdom,Track,Track,59711,406,1725485759,12199241,46.0946116,-113.1416242,1
+16901,300267,30,Montana,MT,"Beaverhead County",Whitefish,Wisdom,Track,Track,59937,406,55961415,1186247,48.3494204,-114.3645265,1
+16902,300277,30,Montana,MT,"Beaverhead County",Bigfork,Wisdom,Track,Track,59911,406,278369702,10398414,48.1515016,-114.0452445,1
+16903,300287,30,Montana,MT,"Beaverhead County",Bozeman,Wisdom,Track,Track,59771,406,99547455,93061,45.692677,-111.1273363,1
+16904,300297,30,Montana,MT,"Beaverhead County",Bozeman,Wisdom,Track,Track,59771,406,1770663,0,45.665366,-111.0533008,1
+17044,310217,31,Nebraska,NE,"Adams County",Albion,Ayr,Track,Track,68620,402,30385895,0,41.6699421,-98.0191848,1
+17045,310227,31,Nebraska,NE,"Adams County",Kearney,Ayr,Track,Track,68847,308,46368988,116360,40.7391446,-99.0315562,1
+17046,310237,31,Nebraska,NE,"Adams County","David City",Ayr,Track,Track,68632,402,784495350,11888991,41.3141239,-97.1330659,1
+17047,310247,31,Nebraska,NE,"Adams County",Coleridge,Ayr,Track,Track,68727,402,998068960,172422,42.4893441,-97.2404403,1
+17048,310257,31,Nebraska,NE,"Adams County",Schuyler,Ayr,Track,Track,68661,402,715884447,7292267,41.5317987,-97.0885301,1
+17049,310267,31,Nebraska,NE,"Adams County","So Sioux City",Ayr,Track,Track,68776,402,8730069,445137,42.4598825,-96.399487,1
+17050,310277,31,Nebraska,NE,"Adams County",Lexington,Ayr,Track,Track,68850,308,9883984,16592,40.7879777,-99.7260672,1
+17051,310287,31,Nebraska,NE,"Adams County",Fremont,Ayr,Track,Track,68025,402,5105443,0,41.4439583,-96.4629817,1
+17052,310297,31,Nebraska,NE,"Adams County",Omaha,Ayr,Track,Track,68110,402,1568602,0,41.2937291,-95.9394207,1
+17319,320217,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89107,702,1731611,0,36.1525444,-115.1667753,1
+17320,320227,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89110,702,1831624,0,36.1698653,-115.0930999,1
+17321,320237,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89101,702,646624,0,36.1845886,-115.102762,1
+17322,320247,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89102,702,2245909,0,36.1511979,-115.1808956,1
+17323,320257,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89104,702,1313211,0,36.1522139,-115.0868461,1
+17324,320267,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89121,702,1209784,0,36.1114528,-115.1145843,1
+17325,320277,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89104,702,976835,0,36.1407296,-115.1120612,1
+17326,320287,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89104,702,375335,0,36.1393391,-115.157474,1
+17327,320297,32,Nevada,NV,"Churchill County","Las Vegas","Fallon city",Track,Track,89119,702,1009371,0,36.10478,-115.1571534,1
+17584,330212,33,"New Hampshire",NH,"Belknap County",Laconia,Alton,Track,Track,3246,603,12738489,3225563,43.5918678,-71.4528247,1
+17585,330222,33,"New Hampshire",NH,"Belknap County","Ctr. Ossipee",Alton,Track,Track,3814,603,183263475,12461610,43.737249,-71.1503492,1
+17586,330232,33,"New Hampshire",NH,"Belknap County",Fitzwilliam,Alton,Track,Track,3447,603,186974510,4133308,42.7658198,-72.2113306,1
+17587,330242,33,"New Hampshire",NH,"Belknap County",Winchester,Alton,Track,Track,3470,603,142349951,1417968,42.7893136,-72.3952385,1
+17588,330252,33,"New Hampshire",NH,"Belknap County",Jefferson,Alton,Track,Track,3583,603,664931419,1090549,44.3137439,-71.4028891,1
+17589,330262,33,"New Hampshire",NH,"Belknap County",Canaan,Alton,Track,Track,3741,603,403786085,9682167,43.748391,-71.9882111,1
+17590,330272,33,"New Hampshire",NH,"Belknap County",Lebanon,Alton,Track,Track,3766,603,58869325,975945,43.6233155,-72.2514532,1
+17591,330282,33,"New Hampshire",NH,"Belknap County",Manchester,Alton,Track,Track,3104,603,2811354,0,43.0074205,-71.4409741,1
+17592,330292,33,"New Hampshire",NH,"Belknap County",Manchester,Alton,Track,Track,3103,603,1504875,0,42.976819,-71.4407529,1
+17715,340215,34,"New Jersey",NJ,"Atlantic County",Brigantine,"Absecon city",Track,Track,8203,609,10719909,11912700,39.421252,-74.3715728,1
+17716,340225,34,"New Jersey",NJ,"Atlantic County",Absecon,"Absecon city",Track,Track,8201,609,22183025,17534672,39.4313704,-74.4367916,1
+17717,340235,34,"New Jersey",NJ,"Atlantic County",Minotola,"Absecon city",Track,Track,8341,856,19626213,3410,39.5291701,-74.9452046,1
+17718,340245,34,"New Jersey",NJ,"Atlantic County","Egg Harbor Township","Absecon city",Track,Track,8234,609,30846295,4499751,39.3464653,-74.6355174,1
+17719,340255,34,"New Jersey",NJ,"Atlantic County",Linwood,"Absecon city",Track,Track,8221,609,2048215,106525,39.3411288,-74.586106,1
+17720,340265,34,"New Jersey",NJ,"Atlantic County","Atlantic City","Absecon city",Track,Track,8401,609,762742,629979,39.3426337,-74.4751972,1
+17721,340275,34,"New Jersey",NJ,"Atlantic County",Bergenfield,"Absecon city",Track,Track,7621,201,1237434,0,40.9303636,-73.9866285,1
+17722,340285,34,"New Jersey",NJ,"Atlantic County","Cliffside Park","Absecon city",Track,Track,7010,201,647353,0,40.8214799,-73.9865562,1
+17723,340295,34,"New Jersey",NJ,"Atlantic County",Dumont,"Absecon city",Track,Track,7628,201,2309002,7152,40.9464667,-73.999132,1
+18603,350215,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87112,505,2592028,0,35.1090849,-106.5419867,1
+18604,350225,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87110,505,1357343,0,35.1271169,-106.5952626,1
+18605,350235,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87110,505,2429620,0,35.0919014,-106.5659628,1
+18606,350245,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87123,505,3265647,36410,35.0532205,-106.5243052,1
+18607,350255,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87102,505,1172309,0,35.078308,-106.6416509,1
+18608,350265,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87105,505,2832006,0,35.0816423,-106.7044929,1
+18609,350275,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87107,505,8189934,61240,35.1219385,-106.6185228,1
+18610,350285,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87111,505,2594156,0,35.1346147,-106.5126321,1
+18611,350295,35,"New Mexico",NM,"Bernalillo County",Albuquerque,"Albuquerque city",Track,Track,87122,505,7043788,4621,35.1835853,-106.5115726,1
+18843,360214,36,"New York",NY,"Albany County",Albany,"Albany city",Track,Track,12208,518,582401,0,42.6575003,-73.7816778,1
+18844,360224,36,"New York",NY,"Albany County",Albany,"Albany city",Track,Track,12202,518,640377,7375,42.6450868,-73.7637113,1
+18845,360234,36,"New York",NY,"Albany County",Troy,"Albany city",Track,Track,12180,518,1236351,205707,42.7151114,-73.7063321,1
+18846,360244,36,"New York",NY,"Albany County",Loudonville,"Albany city",Track,Track,12211,518,2742331,79375,42.6996786,-73.7650276,1
+18847,360254,36,"New York",NY,"Albany County",Delmar,"Albany city",Track,Track,12054,518,7780564,23783,42.6215878,-73.8637582,1
+18848,360264,36,"New York",NY,"Albany County",Schenectady,"Albany city",Track,Track,12303,518,22253793,40235,42.7294529,-73.9109795,1
+18849,360274,36,"New York",NY,"Albany County",Durham,"Albany city",Track,Track,12422,518,159191854,1088427,42.4794765,-74.1786077,1
+18850,360284,36,"New York",NY,"Albany County",Andover,"Albany city",Track,Track,14806,607,205684910,313724,42.1465916,-77.8149561,1
+18851,360294,36,"New York",NY,"Albany County",Bronx,"Albany city",Track,Track,10473,718,395564,0,40.8175801,-73.8660962,1
+21003,370214,37,"North Carolina",NC,"Alamance County",Graham,Alamance,Track,Track,27253,336,10254579,206298,36.029254,-79.4128455,1
+21004,370224,37,"North Carolina",NC,"Alamance County",Burlington,Alamance,Track,Track,27217,336,65709877,4518089,36.200065,-79.4059533,1
+21005,370234,37,"North Carolina",NC,"Alamance County",Graham,Alamance,Track,Track,27253,336,121996039,1774691,35.892058,-79.3325996,1
+21006,370244,37,"North Carolina",NC,"Alamance County",Ennice,Alamance,Track,Track,28623,336,238743346,1297271,36.4789174,-81.0089881,1
+21007,370254,37,"North Carolina",NC,"Alamance County","Mountain City",Alamance,Track,Track,37683,423,214126813,540128,36.4748987,-81.6702693,1
+21008,370264,37,"North Carolina",NC,"Alamance County",Pinetown,Alamance,Track,Track,27865,252,483300313,38376396,35.5967373,-76.6793361,1
+21009,370274,37,"North Carolina",NC,"Alamance County",Chocowinity,Alamance,Track,Track,27817,252,168582589,8012577,35.4750471,-77.109449,1
+21010,370284,37,"North Carolina",NC,"Alamance County",Clarkton,Alamance,Track,Track,28433,910,505566437,3070652,34.4724361,-78.5197131,1
+21011,370294,37,"North Carolina",NC,"Alamance County",Southport,Alamance,Track,Track,28461,910,34705479,668345,33.9437459,-78.1053807,1
+21918,380214,38,"North Dakota",ND,"Adams County",Bowman,"Bucyrus city",Track,Track,58623,701,36633293,21197,46.2009225,-103.3945543,1
+21919,380224,38,"North Dakota",ND,"Adams County",Bismarck,"Bucyrus city",Track,Track,58504,701,4179656,0,46.7949479,-100.7662807,1
+21920,380234,38,"North Dakota",ND,"Adams County",Sterling,"Bucyrus city",Track,Track,58572,701,1664096998,36260468,46.8160787,-100.3712269,1
+21921,380244,38,"North Dakota",ND,"Adams County",Fargo,"Bucyrus city",Track,Track,58102,701,964858,0,46.8768696,-96.7855766,1
+21922,380254,38,"North Dakota",ND,"Adams County","West Fargo","Bucyrus city",Track,Track,58078,701,2564659,0,46.8547025,-96.8725833,1
+21923,380264,38,"North Dakota",ND,"Adams County",Hunter,"Bucyrus city",Track,Track,58048,701,1106771469,706567,47.1297474,-97.1444195,1
+21925,380284,38,"North Dakota",ND,"Adams County","Grand Forks","Bucyrus city",Track,Track,58201,701,1212059,52498,47.9189705,-97.0278242,1
+21926,380294,38,"North Dakota",ND,"Adams County",Thompson,"Bucyrus city",Track,Track,58278,701,948184295,1924886,47.8115366,-97.1668607,1
+22037,390213,39,Ohio,OH,"Adams County",Lima,Rome,Track,Track,45801,419,13509935,6019,40.7773655,-84.1355805,1
+22038,390223,39,Ohio,OH,"Adams County",Lima,Rome,Track,Track,45801,419,1956550,7022,40.7647074,-84.1169163,1
+22039,390233,39,Ohio,OH,"Adams County",Lima,Rome,Track,Track,45804,419,2073208,82227,40.7282394,-84.1114506,1
+22040,390243,39,Ohio,OH,"Adams County",Ashland,Rome,Track,Track,44805,419,21094780,260712,40.8907599,-82.2876631,1
+22041,390253,39,Ohio,OH,"Adams County",Conneaut,Rome,Track,Track,44030,440,3587174,0,41.9414505,-80.5691543,1
+22042,390263,39,Ohio,OH,"Adams County",Ashtabula,Rome,Track,Track,44004,440,4588472,0,41.8510094,-80.8074383,1
+22043,390273,39,Ohio,OH,"Adams County",Andover,Rome,Track,Track,44003,440,185637634,7356014,41.5540692,-80.6142137,1
+22044,390283,39,Ohio,OH,"Adams County",Athens,Rome,Track,Track,45701,740,47658873,272346,39.3208653,-82.1649665,1
+22045,390293,39,Ohio,OH,"Adams County",Cridersville,Rome,Track,Track,45806,419,91076735,89471,40.6169347,-84.1571042,1
+23386,400213,40,Oklahoma,OK,"Adair County",Forgan,Bell,Track,Track,73938,580,1970771492,6122262,36.8777411,-100.4680246,1
+23387,400223,40,Oklahoma,OK,"Adair County",Watonga,Bell,Track,Track,73772,580,68891875,118142,35.8543991,-98.4108971,1
+23388,400233,40,Oklahoma,OK,"Adair County",Durant,Bell,Track,Track,74701,580,10704079,12468,33.973414,-96.4001231,1
+23389,400243,40,Oklahoma,OK,"Adair County",Cement,Bell,Track,Track,73017,405,226654991,324219,34.9224046,-98.1704777,1
+23390,400253,40,Oklahoma,OK,"Adair County",Yukon,Bell,Track,Track,73099,405,6097055,9248,35.5870891,-97.7295179,1
+23391,400263,40,Oklahoma,OK,"Adair County",Mustang,Bell,Track,Track,73064,405,15623831,12474,35.435156,-97.7337507,1
+23392,400273,40,Oklahoma,OK,"Adair County",Springer,Bell,Track,Track,73458,580,726439773,10769220,34.3521085,-97.2563121,1
+23393,400283,40,Oklahoma,OK,"Adair County",Ardmore,Bell,Track,Track,73402,580,2260063,0,34.1831991,-97.1304057,1
+23394,400293,40,Oklahoma,OK,"Adair County","Fort Towson",Bell,Track,Track,74735,580,570285489,32074694,34.048177,-95.2872707,1
+642,401539,4,Arizona,AZ,"Pima County",Sells,"Ali Molina",CDP,place,85634,520,1996741,0,31.902547,-111.780387,1
+643,401549,4,Arizona,AZ,"Pinal County",Eloy,"Arizona City",CDP,place,85131,520,15901047,186302,32.750787,-111.670454,1
+644,401559,4,Arizona,AZ,"Mohave County",Littlefield,"Beaver Dam",CDP,place,86432,928,21799318,0,36.907098,-113.936313,1
+645,401569,4,Arizona,AZ,"Cochise County",Bowie,Bowie,CDP,place,85605,520,4393141,0,32.324831,-109.484454,1
+646,401579,4,Arizona,AZ,"Coconino County","Tuba City",Cameron,CDP,place,86045,928,48495778,43135,35.853193,-111.428585,1
+647,401589,4,Arizona,AZ,"Pima County",Tucson,Catalina,CDP,place,85739,520,36546383,0,32.484902,-110.899633,1
+648,401599,4,Arizona,AZ,"Navajo County",Chinle,Chilchinbito,CDP,place,86503,928,61541732,27332,36.491359,-110.049912,1
+649,401609,4,Arizona,AZ,"Mohave County",Kingman,"Clacks Canyon",CDP,place,86401,928,8604897,0,35.220358,-114.0723,1
+650,401619,4,Arizona,AZ,"Gila County",Globe,"Copper Hill",CDP,place,85501,928,19032541,3749,33.430941,-110.746483,1
+651,401629,4,Arizona,AZ,"Gila County",Globe,Cutter,CDP,place,85501,928,2138576,0,33.35838,-110.659327,1
+652,401639,4,Arizona,AZ,"Yuma County",Yuma,"Donovan Estates",CDP,place,85364,928,314190,0,32.709354,-114.678223,1
+653,401649,4,Arizona,AZ,"Gila County",Globe,"East Globe",CDP,place,85501,928,8926975,0,33.35121,-110.705266,1
+654,401659,4,Arizona,AZ,"Navajo County",Polacca,"First Mesa",CDP,place,86042,928,40759648,20871,35.831663,-110.368892,1
+655,401669,4,Arizona,AZ,"Coconino County",Flagstaff,"Fort Valley",CDP,place,86001,928,19798069,0,35.255416,-111.725274,1
+656,401679,4,Arizona,AZ,"Maricopa County",Gilbert,Gilbert,Town,place,85295,480,176124143,510475,33.310345,-111.743121,1
+657,401689,4,Arizona,AZ,"Mohave County","Dolan Springs","Grand Canyon West",CDP,place,86441,928,44522908,1066005,36.004418,-113.804103,1
+658,401699,4,Arizona,AZ,"Gila County",Winkelman,Hayden,Town,place,85292,520,3277192,20294,32.994887,-110.779872,1
+659,401709,4,Arizona,AZ,"Navajo County",Holbrook,"Indian Wells",CDP,place,86025,928,26925538,784,35.40925,-110.114439,1
+660,401719,4,Arizona,AZ,"Navajo County",Kayenta,Kayenta,CDP,place,86033,928,34116189,163261,36.717169,-110.260459,1
+661,401729,4,Arizona,AZ,"Navajo County",Kykotsmovi,"Kykotsmovi Village",CDP,place,86039,928,43824456,30639,35.810245,-110.656849,1
+662,401739,4,Arizona,AZ,"Mohave County",Littlefield,Littlefield,CDP,place,86432,928,30994033,0,36.866273,-113.935838,1
+663,401749,4,Arizona,AZ,"Pima County",Sells,"Maish Vaya",CDP,place,85634,520,10970122,0,32.170295,-112.134197,1
+664,401759,4,Arizona,AZ,"Mohave County","Dolan Springs",Meadview,CDP,place,86441,928,80386657,0,35.953156,-114.078871,1
+665,401769,4,Arizona,AZ,"Mohave County","Mohave Valley","Mojave Ranch Estates",CDP,place,86440,928,1937625,0,34.944901,-114.590643,1
+666,401779,4,Arizona,AZ,"Santa Cruz County",Temp,"Nogales city",City,place,85282,480,53915279,52011,31.362463,-110.933538,1
+667,401789,4,Arizona,AZ,"Gila County",Payson,"Oxbow Estates",CDP,place,85541,928,1271640,390,34.180335,-111.343012,1
+668,401799,4,Arizona,AZ,"Gila County",Payson,Payson,Town,place,85547,928,50110915,18653,34.243893,-111.31884,1
+669,401809,4,Arizona,AZ,"Graham County",Pima,Pima,Town,place,85543,928,17169776,116004,32.88156,-109.843764,1
+670,401819,4,Arizona,AZ,"Cochise County",Douglas,Pirtleville,CDP,place,85608,520,4825985,1270,31.360894,-109.566052,1
+671,401829,4,Arizona,AZ,"Yuma County",Somerton,"Rancho Mesa Verde",CDP,place,85350,928,290861,0,32.594385,-114.655084,1
+672,401839,4,Arizona,AZ,"Gila County","Tonto Basin",Roosevelt,CDP,place,85553,928,6966992,22644,33.657393,-111.127051,1
+673,401849,4,Arizona,AZ,"Pima County","Green Valley",Sahuarita,Town,place,85614,520,81484003,0,31.932739,-110.96536,1
+674,401859,4,Arizona,AZ,"Pinal County","San Manuel","San Manuel",CDP,place,85631,520,53673060,78904,32.60603,-110.647113,1
+675,401869,4,Arizona,AZ,"Navajo County","Second Mesa","Second Mesa",CDP,place,86043,928,103921612,38150,35.851387,-110.49799,1
+676,401879,4,Arizona,AZ,"Cochise County","Sierra Vista","Sierra Vista city",City,place,85635,520,394277330,678788,31.56541,-110.314508,1
+677,401889,4,Arizona,AZ,"Apache County",Eagar,Springerville,Town,place,85925,928,29847566,422096,34.171921,-109.306892,1
+678,401899,4,Arizona,AZ,"Maricopa County",Surprise,"Sun City West",CDP,place,85374,623,28151296,8243,33.671383,-112.357187,1
+679,401909,4,Arizona,AZ,"Yuma County",Roll,Tacna,CDP,place,85347,928,4979033,0,32.700435,-113.961785,1
+680,401919,4,Arizona,AZ,"Coconino County",Winslow,"Tolani Lake",CDP,place,86047,928,1107069,0,35.430955,-110.84315,1
+681,401929,4,Arizona,AZ,"Pinal County",Superior,Top-of-the-World,CDP,place,85273,520,15700609,0,33.347668,-110.999724,1
+682,401939,4,Arizona,AZ,"Coconino County",Page,Tusayan,Town,place,86040,928,43569855,0,35.954964,-112.120196,1
+683,401949,4,Arizona,AZ,"Yavapai County",Cottonwood,"Verde Village",CDP,place,86326,928,18030574,0,34.711987,-111.993997,1
+684,401959,4,Arizona,AZ,"Yuma County",Wellton,"Wellton Hills",CDP,place,85356,928,1656151,0,32.623189,-114.145234,1
+685,401969,4,Arizona,AZ,"Pima County",Ajo,Why,CDP,place,85321,520,23195005,0,32.258973,-112.730634,1
+686,401979,4,Arizona,AZ,"Mohave County","Mohave Valley","Willow Valley",CDP,place,86440,928,12784253,98504,34.927669,-114.626595,1
+687,401989,4,Arizona,AZ,"Yavapai County",Yarnell,Yarnell,CDP,place,85362,928,22855950,0,34.228248,-112.763062,1
+688,402103,4,Arizona,AZ,"Apache County",Morenci,Chinle,Track,Track,85540,928,319216540,7585923,32.9929864,-109.3323888,1
+689,402113,4,Arizona,AZ,"Apache County",Ehrenberg,Chinle,Track,Track,85334,928,1583765313,0,33.2825883,-114.4150358,1
+690,402123,4,Arizona,AZ,"Apache County","Sun City",Chinle,Track,Track,85373,623,3907853,0,33.6751574,-112.3386479,1
+691,402133,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85387,623,2180184,0,33.6762281,-112.4163657,1
+692,402143,4,Arizona,AZ,"Apache County",Buckeye,Chinle,Track,Track,85322,623,661453568,125164,33.5484373,-112.6462541,1
+693,402153,4,Arizona,AZ,"Apache County","El Mirage",Chinle,Track,Track,85335,623,3955451,93784,33.6196477,-112.3144574,1
+694,402163,4,Arizona,AZ,"Apache County","Litchfield Park",Chinle,Track,Track,85340,623,3850676,11138,33.4834524,-112.3250332,1
+695,402173,4,Arizona,AZ,"Apache County",Goodyear,Chinle,Track,Track,85338,623,14503084,13707,33.413794,-112.3997841,1
+696,402183,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85379,623,2592282,0,33.6165068,-112.3678926,1
+697,402193,4,Arizona,AZ,"Apache County",Surprise,Chinle,Track,Track,85379,623,36407150,86468,33.5589526,-112.4016176,1
+698,402203,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,3332748,30221,33.6294009,-112.2828515,1
+699,402213,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85381,623,2435718,0,33.6033854,-112.2606851,1
+700,402223,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2569200,0,33.5885301,-112.228887,1
+701,402233,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85037,623,1297867,0,33.4870407,-112.2421267,1
+702,402243,4,Arizona,AZ,"Apache County",Avondale,Chinle,Track,Track,85323,623,3195695,0,33.4702087,-112.2812089,1
+703,402253,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85305,623,18953599,0,33.4006324,-112.3294874,1
+704,402263,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85302,623,647196,0,33.56024,-112.1883998,1
+705,402273,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85303,623,2565814,0,33.5450265,-112.2290633,1
+706,402283,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85345,623,2589405,0,33.558242,-112.2983535,1
+707,402293,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85301,623,1259601,0,33.5130874,-112.1947392,1
+708,402303,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2590325,7908,33.6186525,-111.9512025,1
+709,402313,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,767901,0,33.6298167,-112.0253133,1
+710,402323,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85023,602,5215782,4009,33.628231,-112.0612399,1
+711,402333,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85029,602,2582502,188,33.589357,-112.1440635,1
+712,402343,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85306,602,2565589,0,33.6179382,-112.1597847,1
+713,402353,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85029,602,1000952,79804,33.5896579,-112.1208241,1
+714,402363,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85028,602,2584777,0,33.5898363,-112.0044597,1
+715,402373,4,Arizona,AZ,"Apache County",Tucson,Chinle,Track,Track,85754,520,1288058,0,33.5603767,-112.1126416,1
+716,402383,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85021,602,942646,0,33.5494847,-112.1059643,1
+717,402393,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85013,602,649356,0,33.5348013,-112.0867781,1
+718,402403,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85015,602,2575241,0,33.5168231,-112.10837,1
+719,402413,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,480,1557172,16048,33.5002341,-111.989341,1
+720,402423,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85013,602,1504391,10484,33.5054188,-112.0934517,1
+721,402433,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,623,1231152,0,33.5018159,-112.2335625,1
+722,402443,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85033,602,1302037,0,33.4877584,-112.1907502,1
+723,402453,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85016,602,1780329,11537,33.4889011,-112.0356409,1
+724,402463,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85257,480,6570748,89237,33.4586576,-111.9551042,1
+725,402473,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85007,602,2540085,44043,33.4713281,-112.0919831,1
+726,402483,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85035,623,1264266,0,33.476804,-112.1948327,1
+727,402493,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85009,602,721053,0,33.4639189,-112.1435434,1
+728,402503,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85008,602,649254,0,33.4549591,-112.0258111,1
+729,402513,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85003,602,1304997,0,33.4477675,-112.0738956,1
+730,402523,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85031,602,2815997,0,33.4290366,-112.0739784,1
+731,402533,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85040,602,2480171,0,33.3998988,-112.0386208,1
+732,402543,4,Arizona,AZ,"Apache County",Laveen,Chinle,Track,Track,85339,602,6532427,0,33.3848215,-112.2072947,1
+733,402553,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85041,602,7727811,0,33.3746295,-112.1052606,1
+734,402563,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85048,480,2416246,169146,33.2958998,-112.0048153,1
+735,402573,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85048,480,5703861,6930,33.3119365,-112.0601268,1
+736,402583,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85034,602,6624814,5647,33.42871,-112.0418759,1
+737,402593,4,Arizona,AZ,"Apache County","Fountain Hills",Chinle,Track,Track,85268,480,4969751,121069,33.6132017,-111.706384,1
+738,402603,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85250,480,2293862,263086,33.5461165,-111.9137634,1
+739,402613,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85018,602,6562047,111864,33.6450492,-111.9093868,1
+740,402623,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85250,480,2544694,35270,33.529373,-111.898852,1
+741,402633,4,Arizona,AZ,"Apache County",Scottsdale,Chinle,Track,Track,85251,602,1048260,0,33.4863686,-111.9386785,1
+742,402643,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85281,480,8101442,192893,33.4340726,-111.9158636,1
+743,402653,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85382,480,1325010,0,33.4111316,-111.9002656,1
+744,402663,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85281,480,3856655,0,33.3965537,-111.9520567,1
+745,402673,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85284,480,2572910,71906,33.3425415,-111.9008883,1
+746,402683,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85207,480,7589777,51295,33.4595197,-111.6595501,1
+747,402693,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85215,480,3611961,0,33.4910974,-111.6921859,1
+748,402703,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85203,480,1640802,17374,33.4575906,-111.7937678,1
+749,402713,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85213,480,2544122,0,33.4445016,-111.7792986,1
+750,402723,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85203,480,1210887,0,33.4331863,-111.8141543,1
+751,402733,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85201,480,2325570,0,33.4111435,-111.8721703,1
+752,402743,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85204,480,1309323,0,33.396982,-111.8141908,1
+753,402753,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85210,480,2640384,6784,33.3836283,-111.8554938,1
+754,402763,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85210,480,1289816,0,33.3606123,-111.8504492,1
+755,402773,4,Arizona,AZ,"Apache County",Gilbert,Chinle,Track,Track,85233,480,7863204,0,33.3654099,-111.8263386,1
+756,402783,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85204,480,2604371,0,33.3864079,-111.7625514,1
+757,402793,4,Arizona,AZ,"Apache County",Higley,Chinle,Track,Track,85236,480,10188812,0,33.3503525,-111.7214724,1
+758,402803,4,Arizona,AZ,"Apache County",Gilbert,Chinle,Track,Track,85234,480,2541399,0,33.3721723,-111.696362,1
+759,402813,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85208,480,2589086,0,33.4005952,-111.6414096,1
+760,402823,4,Arizona,AZ,"Apache County",Mesa,Chinle,Track,Track,85209,480,2574580,0,33.3718076,-111.6274317,1
+761,402833,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85224,480,2593315,0,33.3278656,-111.8677684,1
+762,402843,4,Arizona,AZ,"Apache County",Anthem,Chinle,Track,Track,85086,623,32164952,17349,33.8390081,-112.0893313,1
+763,402853,4,Arizona,AZ,"Apache County",Glendale,Chinle,Track,Track,85310,623,5610089,0,33.7249711,-112.1753498,1
+764,402863,4,Arizona,AZ,"Apache County","Cave Creek",Chinle,Track,Track,85327,480,1327101,0,33.764366,-111.9903161,1
+765,402873,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85383,623,6369958,653,33.6883797,-112.2710053,1
+766,402883,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85031,623,3382352,0,33.676414,-112.1236581,1
+767,402893,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,3088968,0,33.6601992,-112.2446432,1
+768,402903,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85027,623,2537641,0,33.6619201,-112.0913975,1
+769,402913,4,Arizona,AZ,"Apache County",Peoria,Chinle,Track,Track,85382,623,2572912,0,33.6455789,-112.2459731,1
+770,402923,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85023,602,2295574,0,33.6472713,-112.1073368,1
+771,402933,4,Arizona,AZ,"Apache County",Phoenix,Chinle,Track,Track,85032,602,2578786,12092,33.6471778,-112.0047736,1
+772,402943,4,Arizona,AZ,"Apache County",Tempe,Chinle,Track,Track,85284,480,2738664,0,33.3292784,-111.9583649,1
+773,402953,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85226,480,2475231,0,33.2980703,-111.9194466,1
+774,402963,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85286,480,2639936,0,33.284067,-111.8501598,1
+775,402973,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85248,480,5848500,0,33.2341022,-111.8512674,1
+776,402983,4,Arizona,AZ,"Apache County",Chandler,Chinle,Track,Track,85249,480,2482993,0,33.2119505,-111.7808712,1
+777,402993,4,Arizona,AZ,"Apache County",Gilbert,Chinle,Track,Track,85295,480,2461759,0,33.3139216,-111.7646653,1
+23866,410212,41,Oregon,OR,"Baker County",Corvallis,"Baker City city",Track,Track,97330,541,9752075,0,44.5849205,-123.3117656,1
+23867,410222,41,Oregon,OR,"Baker County",Corvallis,"Baker City city",Track,Track,97333,541,3524929,0,44.5647285,-123.293002,1
+23868,410232,41,Oregon,OR,"Baker County","Lake Oswego","Baker City city",Track,Track,97034,503,3043109,694035,45.4044858,-122.6914809,1
+23869,410242,41,Oregon,OR,"Baker County",Milwaukie,"Baker City city",Track,Track,97222,503,2476294,3783,45.4431814,-122.6103187,1
+23870,410252,41,Oregon,OR,"Baker County",Gladstone,"Baker City city",Track,Track,97027,503,1537899,0,45.3840972,-122.6024261,1
+23871,410262,41,Oregon,OR,"Baker County","Happy Valley","Baker City city",Track,Track,97086,503,4057297,0,45.4355925,-122.5238686,1
+23872,410272,41,Oregon,OR,"Baker County","West Linn","Baker City city",Track,Track,97068,503,51051511,2127241,45.3354298,-122.704445,1
+23873,410282,41,Oregon,OR,"Baker County",Beavercreek,"Baker City city",Track,Track,97004,503,24784625,87710,45.3054215,-122.5185592,1
+23874,410292,41,Oregon,OR,"Baker County",Estacada,"Baker City city",Track,Track,97023,503,123966596,1058607,45.2470661,-122.3787744,1
+24253,420214,42,Pennsylvania,PA,"Adams County",Gettysburg,Abbottstown,Track,Track,17325,717,67345487,584575,39.7670787,-77.1799532,1
+24254,420224,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15203,412,866087,235982,40.4361325,-79.9853307,1
+24255,420234,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15219,412,805419,6849,40.4533964,-79.9597752,1
+24256,420244,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15232,412,803571,0,40.4520288,-79.9419504,1
+24257,420254,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15201,412,1049825,305758,40.4842661,-79.9493327,1
+24258,420264,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15208,412,1079673,0,40.4693926,-79.9029219,1
+24259,420274,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15232,412,759492,0,40.4478011,-79.9263113,1
+24260,420284,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15207,412,820480,0,40.4250077,-79.9443941,1
+24261,420294,42,Pennsylvania,PA,"Adams County",Pittsburgh,Abbottstown,Track,Track,15216,412,945372,0,40.4273033,-80.0110977,1
+26108,440147,44,"Rhode Island",RI,"Providence County",Clayville,Clayville,CDP,place,2815,401,4465398,49692,41.769165,-71.692106,1
+26109,440157,44,"Rhode Island",RI,"Washington County",Ashaway,Hopkinton,CDP,place,2804,401,8572084,13185,41.467665,-71.780859,1
+26110,440167,44,"Rhode Island",RI,"Washington County",Westerly,Quonochontaug,CDP,place,2891,401,3397814,85847,41.349517,-71.70491,1
+26111,440217,44,"Rhode Island",RI,"Kent County","West Warwick",Greene,Track,Track,2893,401,4459759,195485,41.7212679,-71.5048313,1
+26112,440227,44,"Rhode Island",RI,"Kent County","East Greenwich",Greene,Track,Track,2818,401,31818412,128854,41.6343063,-71.5337597,1
+26113,440237,44,"Rhode Island",RI,"Kent County",Warwick,Greene,Track,Track,2889,401,3745824,10221803,41.6903958,-71.365314,1
+26114,440247,44,"Rhode Island",RI,"Kent County",Warwick,Greene,Track,Track,2886,401,7879411,77444,41.6899333,-71.4876727,1
+26115,440257,44,"Rhode Island",RI,"Kent County",Middletown,Greene,Track,Track,2842,401,5597834,5321,41.5306136,-71.2809349,1
+26116,440267,44,"Rhode Island",RI,"Kent County",Jamestown,Greene,Track,Track,2835,401,24469395,14503824,41.510088,-71.3783655,1
+26117,440277,44,"Rhode Island",RI,"Kent County",Providence,Greene,Track,Track,2907,401,1108900,0,41.8036426,-71.4246448,1
+26118,440287,44,"Rhode Island",RI,"Kent County",Providence,Greene,Track,Track,2909,401,586867,0,41.8128295,-71.4358507,1
+26119,440297,44,"Rhode Island",RI,"Kent County",Providence,Greene,Track,Track,2908,401,813499,0,41.8300081,-71.4374578,1
+26217,450218,45,"South Carolina",SC,"Abbeville County","North Augusta","Abbeville city",Track,Track,29841,803,7569557,530739,33.4918418,-81.9708285,1
+26218,450228,45,"South Carolina",SC,"Abbeville County",Aiken,"Abbeville city",Track,Track,29802,803,11183390,22589,33.5673523,-81.7526402,1
+26219,450238,45,"South Carolina",SC,"Abbeville County",Jackson,"Abbeville city",Track,Track,29831,803,120040653,1729890,33.3147374,-81.8384557,1
+26220,450248,45,"South Carolina",SC,"Abbeville County",Anderson,"Abbeville city",Track,Track,29625,864,4606183,16031,34.5151855,-82.6815651,1
+26221,450258,45,"South Carolina",SC,"Abbeville County",Williamston,"Abbeville city",Track,Track,29697,864,86933303,570827,34.5777621,-82.5046973,1
+26222,450268,45,"South Carolina",SC,"Abbeville County",Anderson,"Abbeville city",Track,Track,29621,864,34603191,130732,34.5595444,-82.6008259,1
+26223,450278,45,"South Carolina",SC,"Abbeville County",Anderson,"Abbeville city",Track,Track,29625,864,11235514,54700,34.5165948,-82.713673,1
+26224,450288,45,"South Carolina",SC,"Abbeville County",Barnwell,"Abbeville city",Track,Track,29812,803,69150107,1240485,33.273181,-81.3721662,1
+26225,450298,45,"South Carolina",SC,"Abbeville County",Beaufort,"Abbeville city",Track,Track,29906,843,26531168,6827655,32.3804562,-80.735904,1
+26676,460216,46,"South Dakota",SD,"Aurora County",Brookings,Storla,Track,Track,57006,605,16872581,0,44.3333627,-96.7736148,1
+26677,460226,46,"South Dakota",SD,"Aurora County",Kimball,Storla,Track,Track,57355,605,2033852221,69171236,43.7079755,-99.0605258,1
+26678,460236,46,"South Dakota",SD,"Aurora County",Vermillion,Storla,Track,Track,57069,605,69430847,4874402,42.7672504,-96.92432,1
+26680,460256,46,"South Dakota",SD,"Aurora County",Waubay,Storla,Track,Track,57273,605,997982603,115639052,45.3542331,-97.3942908,1
+26682,460276,46,"South Dakota",SD,"Aurora County",Alexandria,Storla,Track,Track,57311,605,1125387593,2248724,43.6806116,-97.7968454,1
+26684,460296,46,"South Dakota",SD,"Aurora County",Spearfish,Storla,Track,Track,57783,605,4857986,0,44.4929315,-103.854827,1
+26803,470210,47,Tennessee,TN,"Anderson County",Andersonville,"Clinton city",Track,Track,37705,865,107845806,5260623,36.2087609,-84.0224895,1
+26804,470220,47,Tennessee,TN,"Anderson County",Unionville,"Clinton city",Track,Track,37180,931,232377240,700793,35.6157178,-86.5622621,1
+26805,470230,47,Tennessee,TN,"Anderson County",Holladay,"Clinton city",Track,Track,38341,731,308737620,21649855,35.895176,-88.023953,1
+26806,470240,47,Tennessee,TN,"Anderson County",Rockford,"Clinton city",Track,Track,37853,865,36455290,758859,35.8282335,-83.9261492,1
+26807,470250,47,Tennessee,TN,"Anderson County",Maryville,"Clinton city",Track,Track,37801,865,20395047,0,35.7437895,-84.0138976,1
+26808,470260,47,Tennessee,TN,"Anderson County",Louisville,"Clinton city",Track,Track,37777,865,36895518,373246,35.7884507,-84.0587546,1
+26809,470270,47,Tennessee,TN,"Anderson County",Cleveland,"Clinton city",Track,Track,37311,423,6958615,0,35.1439917,-84.8849279,1
+26810,470280,47,Tennessee,TN,"Anderson County",Cleveland,"Clinton city",Track,Track,37323,423,175570996,38388,35.0759074,-84.9191882,1
+26811,470290,47,Tennessee,TN,"Anderson County",Lafollette,"Clinton city",Track,Track,37766,423,83899693,4922563,36.430611,-83.9803435,1
+27414,480218,48,Texas,TX,"Anderson County",Lufkin,Elkhart,Track,Track,75901,936,125550051,4356060,31.3704775,-94.6760183,1
+27415,480228,48,Texas,TX,"Anderson County",Diboll,Elkhart,Track,Track,75941,936,82743725,2595715,31.2065934,-94.8086815,1
+27416,480238,48,Texas,TX,"Anderson County",Rockport,Elkhart,Track,Track,78381,361,0,160513468,27.9305294,-96.9381146,1
+27417,480248,48,Texas,TX,"Anderson County",Pleasanton,Elkhart,Track,Track,78064,830,56959727,51159,28.9804417,-98.5129059,1
+27418,480258,48,Texas,TX,"Anderson County",Bandera,Elkhart,Track,Track,78003,830,227817084,896088,29.6779421,-99.1456569,1
+27419,480268,48,Texas,TX,"Anderson County",Bastrop,Elkhart,Track,Track,78602,512,343812158,5433400,30.1543473,-97.1842394,1
+27420,480278,48,Texas,TX,"Anderson County",Beeville,Elkhart,Track,Track,78102,361,4726903,0,28.4029422,-97.7596654,1
+27421,480288,48,Texas,TX,"Anderson County",Temple,Elkhart,Track,Track,76501,254,2583016,0,31.1154154,-97.3428233,1
+27422,480298,48,Texas,TX,"Anderson County",Temple,Elkhart,Track,Track,76502,254,2750876,0,31.0583578,-97.3828939,1
+29714,490212,49,Utah,UT,"Beaver County",Willard,"Beaver city",Track,Track,84340,435,181894251,42395506,41.4243803,-111.9938239,1
+29715,490222,49,Utah,UT,"Beaver County",Logan,"Beaver city",Track,Track,84321,435,2723891,0,41.7419202,-111.8451716,1
+29716,490232,49,Utah,UT,"Beaver County",Logan,"Beaver city",Track,Track,84321,435,6150535,3169,41.7261745,-111.7993756,1
+29717,490242,49,Utah,UT,"Beaver County",Price,"Beaver city",Track,Track,84501,435,7096711,0,39.5955863,-110.7960799,1
+29718,490252,49,Utah,UT,"Beaver County",Clinton,"Beaver city",Track,Track,84015,801,3353764,0,41.1462033,-112.0503786,1
+29719,490262,49,Utah,UT,"Beaver County",Clearfield,"Beaver city",Track,Track,84015,801,2971291,7246,41.0991396,-112.0118749,1
+29720,490272,49,Utah,UT,"Beaver County","East Layton","Beaver city",Track,Track,84041,801,3194495,0,41.0826917,-111.9273028,1
+29721,490282,49,Utah,UT,"Beaver County",Centerville,"Beaver city",Track,Track,84014,801,13411872,470762,40.9327484,-111.9017149,1
+29722,490292,49,Utah,UT,"Beaver County",Bountiful,"Beaver city",Track,Track,84010,801,2650768,20437,40.8781951,-111.8611951,1
+29975,500215,50,Vermont,VT,"Addison County",Bennington,Bristol,Track,Track,5201,802,607294625,2279955,42.9064665,-73.0308372,1
+29976,500225,50,Vermont,VT,"Addison County",Lyndonville,Bristol,Track,Track,5851,802,44096912,499521,44.5295346,-71.9747529,1
+29977,500235,50,Vermont,VT,"Addison County",Burlington,Bristol,Track,Track,5401,802,5663051,411630,44.4984489,-73.2130878,1
+29978,500245,50,Vermont,VT,"Addison County",Colchester,Bristol,Track,Track,5446,802,50599982,1052132,44.5455893,-73.1577417,1
+29979,500255,50,Vermont,VT,"Addison County","Underhill Center",Bristol,Track,Track,5490,802,343606142,1440703,44.5071112,-72.9170896,1
+29980,500265,50,Vermont,VT,"Addison County",Burlington,Bristol,Track,Track,5401,802,2814387,8144,44.4680807,-73.1989699,1
+29981,500275,50,Vermont,VT,"Addison County",Swanton,Bristol,Track,Track,5488,802,124398147,35313880,44.9096192,-73.123862,1
+29982,500285,50,Vermont,VT,"Addison County",Johnson,Bristol,Track,Track,5656,802,115788961,981485,44.6481239,-72.6888397,1
+29983,500295,50,Vermont,VT,"Addison County",Randolph,Bristol,Track,Track,5060,802,124422381,405387,43.9216848,-72.6109151,1
+1259,501787,5,Arkansas,AR,"Pulaski County",Bryant,"Alexander city",City,place,72022,501,5864066,0,34.618169,-92.451289,1
+1260,501797,5,Arkansas,AR,"Jackson County",Newport,Amagon,Town,place,72112,870,287351,0,35.563186,-91.109424,1
+1261,501807,5,Arkansas,AR,"Lee County",Marianna,Aubrey,Town,place,72360,870,914050,0,34.719723,-90.898069,1
+1262,501817,5,Arkansas,AR,"Saline County",Bauxite,Bauxite,Town,place,72011,501,8157675,232348,34.559747,-92.499622,1
+1263,501827,5,Arkansas,AR,"Saline County",Benton,"Benton city",City,place,72015,501,57564861,1326167,34.577424,-92.572583,1
+1264,501837,5,Arkansas,AR,"Craighead County",Monette,"Black Oak",Town,place,72447,870,1159367,0,35.83661,-90.3677,1
+1265,501847,5,Arkansas,AR,"Craighead County",Jonesboro,"Bono city",City,place,72404,870,3723225,0,35.908593,-90.79706,1
+1266,501857,5,Arkansas,AR,"Marion County",Flippin,"Bull Shoals city",City,place,72634,870,12772835,193632,36.37357,-92.591504,1
+1267,501867,5,Arkansas,AR,"Jackson County",Newport,"Campbell Station city",City,place,72112,870,4467582,0,35.66785,-91.253827,1
+1268,501877,5,Arkansas,AR,"Crawford County",Cedarville,"Cedarville city",City,place,72932,479,22850530,0,35.58306,-94.361781,1
+1269,501887,5,Arkansas,AR,"Ouachita County",Camden,"Chidester city",City,place,71701,870,13749514,0,33.701485,-93.023945,1
+1270,501897,5,Arkansas,AR,"Faulkner County",Conway,"Conway city",City,place,72034,501,119284002,648518,35.07435,-92.467078,1
+1271,501907,5,Arkansas,AR,"Pike County",Kirby,Daisy,Town,place,71950,501,2953134,781201,34.235924,-93.739193,1
+1272,501917,5,Arkansas,AR,"Van Buren County",Leslie,Dennard,CDP,place,72645,870,56206975,80972,35.747919,-92.549999,1
+1273,501927,5,Arkansas,AR,"Hot Spring County",Donaldson,Donaldson,Town,place,71941,501,1693718,0,34.234145,-92.918641,1
+1274,501937,5,Arkansas,AR,"Phillips County","Friars Point","Elaine city",City,place,38631,662,1315264,0,34.308574,-90.853346,1
+1275,501947,5,Arkansas,AR,"Mississippi County",Caraway,Etowah,Town,place,72419,870,15293534,12850,35.715807,-90.230627,1
+1276,501957,5,Arkansas,AR,"Union County",Crossett,Felsenthal,Town,place,71635,870,3837259,516080,33.060828,-92.149031,1
+1277,501967,5,Arkansas,AR,"Garland County","Hot Springs","Fountain Lake",Town,place,71901,501,10103239,0,34.614003,-92.919727,1
+1278,501977,5,Arkansas,AR,"Benton County",Garfield,Gateway,Town,place,72732,479,15861130,9320,36.485793,-93.938574,1
+1279,501987,5,Arkansas,AR,"Washington County",Sonora,Goshen,Town,place,72764,479,29650745,644867,36.102458,-94.001579,1
+1280,501997,5,Arkansas,AR,"Sebastian County",Greenwood,"Greenwood city",City,place,72936,479,28569727,396143,35.21375,-94.240815,1
+1281,502106,5,Arkansas,AR,"Arkansas County",Rector,"Stuttgart city",Track,Track,72461,501,23798736,53580,36.2681902,-90.2983346,1
+1282,502116,5,Arkansas,AR,"Arkansas County",Rison,"Stuttgart city",Track,Track,71665,870,812912304,1721192,33.814492,-92.1476206,1
+1283,502126,5,Arkansas,AR,"Arkansas County",Morrilton,"Stuttgart city",Track,Track,72110,501,187893462,7688346,35.1325281,-92.6271825,1
+1284,502136,5,Arkansas,AR,"Arkansas County",Jonesboro,"Stuttgart city",Track,Track,72401,870,32225154,233736,35.8965196,-90.6812098,1
+1285,502146,5,Arkansas,AR,"Arkansas County",Cedarville,"Stuttgart city",Track,Track,72932,479,500268926,121804,35.6494933,-94.3623023,1
+1286,502156,5,Arkansas,AR,"Arkansas County","West Memphis","Stuttgart city",Track,Track,72301,870,1568270,613,35.152528,-90.1506261,1
+1287,502166,5,Arkansas,AR,"Arkansas County",Marion,"Stuttgart city",Track,Track,72364,870,52057912,43720,35.2337158,-90.244393,1
+1288,502176,5,Arkansas,AR,"Arkansas County",Earle,"Stuttgart city",Track,Track,72331,870,461968909,9380586,35.2863059,-90.5847536,1
+1289,502186,5,Arkansas,AR,"Arkansas County",Dumas,"Stuttgart city",Track,Track,71639,870,344997795,15510394,33.8762654,-91.4241176,1
+1290,502196,5,Arkansas,AR,"Arkansas County",Greenbrier,"Stuttgart city",Track,Track,72058,501,77173538,55430,35.1954905,-92.3577718,1
+1291,502206,5,Arkansas,AR,"Arkansas County",Conway,"Stuttgart city",Track,Track,72032,501,12191535,577406,35.0708518,-92.3996231,1
+1292,502216,5,Arkansas,AR,"Arkansas County",Conway,"Stuttgart city",Track,Track,72034,501,28234117,52615,35.0299044,-92.4653905,1
+1293,502226,5,Arkansas,AR,"Arkansas County","Hot Springs","Stuttgart city",Track,Track,71901,501,193095025,2743595,34.5914976,-93.0460284,1
+1294,502236,5,Arkansas,AR,"Arkansas County","Hot Springs","Stuttgart city",Track,Track,71913,501,2474504,0,34.4951027,-93.0695425,1
+1295,502246,5,Arkansas,AR,"Arkansas County",Sheridan,"Stuttgart city",Track,Track,72150,870,333471048,456369,34.4022591,-92.3868219,1
+1296,502256,5,Arkansas,AR,"Arkansas County",Paragould,"Stuttgart city",Track,Track,72450,870,11143424,0,36.0522308,-90.5410889,1
+1297,502266,5,Arkansas,AR,"Arkansas County",Malvern,"Stuttgart city",Track,Track,72104,501,34646678,44953,34.3498066,-92.7705516,1
+1298,502276,5,Arkansas,AR,"Arkansas County",Newark,"Stuttgart city",Track,Track,72562,870,436856960,8391812,35.7485331,-91.3772147,1
+1299,502286,5,Arkansas,AR,"Arkansas County",Newport,"Stuttgart city",Track,Track,72112,870,58671350,2720916,35.601681,-91.3040006,1
+1300,502296,5,Arkansas,AR,"Arkansas County","Pine Bluff","Stuttgart city",Track,Track,71601,870,3033900,993,34.2208827,-91.9984419,1
+1301,502306,5,Arkansas,AR,"Arkansas County","Pine Bluff","Stuttgart city",Track,Track,71601,870,119468385,627080,34.1253248,-91.9387216,1
+1302,502316,5,Arkansas,AR,"Arkansas County",Clarksville,"Stuttgart city",Track,Track,72830,479,35487256,324580,35.4953184,-93.4967598,1
+1303,502326,5,Arkansas,AR,"Arkansas County",Hoxie,"Stuttgart city",Track,Track,72433,870,34349588,66293,36.0259169,-90.979586,1
+1304,502336,5,Arkansas,AR,"Arkansas County",Ashdown,"Stuttgart city",Track,Track,71822,870,147041746,6076630,33.6327452,-94.1518784,1
+1305,502346,5,Arkansas,AR,"Arkansas County",Cabot,"Stuttgart city",Track,Track,72023,501,90724941,589989,35.0387903,-92.0457014,1
+1306,502356,5,Arkansas,AR,"Arkansas County",Lonoke,"Stuttgart city",Track,Track,72086,501,179291735,11937001,34.8546328,-91.9290357,1
+1307,502366,5,Arkansas,AR,"Arkansas County",Yellville,"Stuttgart city",Track,Track,72687,870,742463134,4353317,36.1484039,-92.6436026,1
+1308,502376,5,Arkansas,AR,"Arkansas County",Texarkana,"Stuttgart city",Track,Track,71854,870,5893209,0,33.4426639,-94.018199,1
+1309,502386,5,Arkansas,AR,"Arkansas County",Blytheville,"Stuttgart city",Track,Track,72315,870,619112710,24196791,35.8737912,-89.8690399,1
+1310,502396,5,Arkansas,AR,"Arkansas County",Clarendon,"Stuttgart city",Track,Track,72029,870,911549635,16510042,34.5964842,-91.1512537,1
+1311,502406,5,Arkansas,AR,"Arkansas County",Camden,"Stuttgart city",Track,Track,71701,870,551594765,10354207,33.6723409,-92.9860569,1
+1312,502416,5,Arkansas,AR,"Arkansas County","West Helena","Stuttgart city",Track,Track,72390,870,28800309,0,34.5691581,-90.6647991,1
+1313,502426,5,Arkansas,AR,"Arkansas County",Trumann,"Stuttgart city",Track,Track,72472,870,14228472,0,35.6786785,-90.53183,1
+1314,502436,5,Arkansas,AR,"Arkansas County",Hector,"Stuttgart city",Track,Track,72843,479,1058445600,588447,35.5807244,-93.0163604,1
+1315,502446,5,Arkansas,AR,"Arkansas County",Russellville,"Stuttgart city",Track,Track,72802,479,57677425,1296147,35.2259426,-93.0978552,1
+1316,502456,5,Arkansas,AR,"Arkansas County","Little Rock","Stuttgart city",Track,Track,72205,501,3581301,503260,34.7606134,-92.306961,1
+1317,502466,5,Arkansas,AR,"Arkansas County","Little Rock","Stuttgart city",Track,Track,72212,501,5517361,28702,34.7757267,-92.3875534,1
+1318,502476,5,Arkansas,AR,"Arkansas County","North Little Rock","Stuttgart city",Track,Track,72114,501,3587227,1539629,34.7509178,-92.2328333,1
+1319,502486,5,Arkansas,AR,"Arkansas County","North Little Rock","Stuttgart city",Track,Track,72118,501,3116328,4276,34.7970554,-92.2848994,1
+1320,502496,5,Arkansas,AR,"Arkansas County",Jacksonville,"Stuttgart city",Track,Track,72076,501,22249095,521693,34.8474871,-92.156867,1
+1321,502506,5,Arkansas,AR,"Arkansas County",Sherwood,"Stuttgart city",Track,Track,72120,501,4329829,8568,34.8435063,-92.1987999,1
+1322,502516,5,Arkansas,AR,"Arkansas County",Mabelvale,"Stuttgart city",Track,Track,72103,501,15820905,100551,34.6685776,-92.3905375,1
+1323,502526,5,Arkansas,AR,"Arkansas County","Little Rock","Stuttgart city",Track,Track,72223,501,10818446,16913,34.7901981,-92.4646366,1
+1324,502536,5,Arkansas,AR,"Arkansas County",Maumelle,"Stuttgart city",Track,Track,72113,501,43710336,4993597,34.8325231,-92.3727643,1
+1325,502546,5,Arkansas,AR,"Arkansas County",Pocahontas,"Stuttgart city",Track,Track,72455,870,980542145,3032762,36.3578655,-91.132547,1
+1326,502556,5,Arkansas,AR,"Arkansas County",Benton,"Stuttgart city",Track,Track,72015,501,10666961,104518,34.5834265,-92.5537171,1
+1327,502566,5,Arkansas,AR,"Arkansas County","Little Rock","Stuttgart city",Track,Track,72206,501,20370530,198562,34.6024028,-92.371733,1
+1328,502576,5,Arkansas,AR,"Arkansas County",Waldron,"Stuttgart city",Track,Track,72958,479,1153467801,10167914,34.9274818,-94.1351433,1
+1329,502586,5,Arkansas,AR,"Arkansas County","Fort Smith","Stuttgart city",Track,Track,72904,479,2610886,0,35.3942843,-94.3915332,1
+1330,502596,5,Arkansas,AR,"Arkansas County","Fort Smith","Stuttgart city",Track,Track,72901,479,4370119,34047,35.3313777,-94.4128417,1
+1331,502606,5,Arkansas,AR,"Arkansas County",Hackett,"Stuttgart city",Track,Track,72937,479,116170326,1522391,35.214942,-94.3906555,1
+1332,502616,5,Arkansas,AR,"Arkansas County",Timbo,"Stuttgart city",Track,Track,72680,870,862061496,3317900,35.8828834,-92.2512593,1
+1333,502626,5,Arkansas,AR,"Arkansas County","El Dorado","Stuttgart city",Track,Track,71730,870,14705830,1288,33.2216566,-92.7012647,1
+1334,502636,5,Arkansas,AR,"Arkansas County",Fayetteville,"Stuttgart city",Track,Track,72701,479,8573722,28813,36.0638558,-94.1410975,1
+1335,502646,5,Arkansas,AR,"Arkansas County",Springdale,"Stuttgart city",Track,Track,72762,479,107677855,745904,36.1653409,-94.2734944,1
+1336,502656,5,Arkansas,AR,"Arkansas County",Fayetteville,"Stuttgart city",Track,Track,72703,479,5337807,23665,36.0925155,-94.1588649,1
+1337,502666,5,Arkansas,AR,"Arkansas County",Bradford,"Stuttgart city",Track,Track,72020,501,349492389,4042263,35.3891861,-91.5245021,1
+1338,502676,5,Arkansas,AR,"Arkansas County",Beebe,"Stuttgart city",Track,Track,72012,501,426711679,454737,35.15998,-91.9628497,1
+1339,502686,5,Arkansas,AR,"Arkansas County",Danville,"Stuttgart city",Track,Track,72833,479,1132505231,10737053,34.8794694,-93.4762462,1
+1340,502696,5,Arkansas,AR,"Arkansas County",Stuttgart,"Stuttgart city",Track,Track,72160,870,60653145,1135095,34.5311013,-91.5555611,1
+1341,502706,5,Arkansas,AR,"Arkansas County",Gillett,"Stuttgart city",Track,Track,72055,870,750199996,56130010,34.1186356,-91.330666,1
+1342,502716,5,Arkansas,AR,"Arkansas County",Hamburg,"Stuttgart city",Track,Track,71646,870,212043380,737841,33.2041909,-91.8292892,1
+1343,502726,5,Arkansas,AR,"Arkansas County",Crossett,"Stuttgart city",Track,Track,71635,870,59015036,445454,33.1139738,-91.9647115,1
+1344,502736,5,Arkansas,AR,"Arkansas County","Mountain Home","Stuttgart city",Track,Track,72653,870,21090534,63090,36.3680146,-92.3967864,1
+1345,502746,5,Arkansas,AR,"Arkansas County","Mountain Home","Stuttgart city",Track,Track,72653,870,165526982,28556690,36.3243253,-92.2308503,1
+1346,502756,5,Arkansas,AR,"Arkansas County",Cotter,"Stuttgart city",Track,Track,72626,870,111769887,1794401,36.318364,-92.5138407,1
+1347,502766,5,Arkansas,AR,"Arkansas County","Pea Ridge","Stuttgart city",Track,Track,72751,479,60184359,9306,36.4083177,-94.1178442,1
+1348,502776,5,Arkansas,AR,"Arkansas County",Rogers,"Stuttgart city",Track,Track,72758,479,7988596,15581,36.3004942,-94.1212477,1
+1349,502786,5,Arkansas,AR,"Arkansas County",Rogers,"Stuttgart city",Track,Track,72756,479,4507812,24101,36.3462019,-94.1683152,1
+1350,502796,5,Arkansas,AR,"Arkansas County",Rogers,"Stuttgart city",Track,Track,72756,479,12668948,66848,36.2993516,-94.1659306,1
+1351,502806,5,Arkansas,AR,"Arkansas County",Bentonville,"Stuttgart city",Track,Track,72712,479,4253798,8043,36.3608133,-94.1911898,1
+1352,502816,5,Arkansas,AR,"Arkansas County",Bentonville,"Stuttgart city",Track,Track,72712,479,9405489,3678,36.399497,-94.2299079,1
+1353,502826,5,Arkansas,AR,"Arkansas County","Bella Vista","Stuttgart city",Track,Track,72714,479,13971402,295088,36.4862779,-94.2833829,1
+1354,502836,5,Arkansas,AR,"Arkansas County",Centerton,"Stuttgart city",Track,Track,72719,479,9836349,38879,36.3705021,-94.2742006,1
+1355,502846,5,Arkansas,AR,"Arkansas County",Gravette,"Stuttgart city",Track,Track,72736,479,264314385,33726,36.4140841,-94.5288329,1
+1356,502856,5,Arkansas,AR,"Arkansas County","Siloam Springs","Stuttgart city",Track,Track,72761,479,14934055,69115,36.1555108,-94.536747,1
+1357,502866,5,Arkansas,AR,"Arkansas County",Bentonville,"Stuttgart city",Track,Track,72712,479,27426438,398695,36.3316021,-94.2696866,1
+1358,502876,5,Arkansas,AR,"Arkansas County",Rogers,"Stuttgart city",Track,Track,72758,479,8871812,43089,36.281642,-94.1966574,1
+1359,502886,5,Arkansas,AR,"Arkansas County",Garfield,"Stuttgart city",Track,Track,72732,479,117357663,35490104,36.3769305,-93.945348,1
+1360,502896,5,Arkansas,AR,"Arkansas County",Rogers,"Stuttgart city",Track,Track,72756,479,160775012,29392005,36.2964204,-93.9358877,1
+1361,502906,5,Arkansas,AR,"Arkansas County","Valley Springs","Stuttgart city",Track,Track,72682,870,260692961,360416,36.1767389,-92.990687,1
+1362,502916,5,Arkansas,AR,"Arkansas County",Harrison,"Stuttgart city",Track,Track,72601,870,16625365,111027,36.2233149,-93.101333,1
+1363,502926,5,Arkansas,AR,"Arkansas County",Hermitage,"Stuttgart city",Track,Track,71647,870,184722604,57086,33.5403608,-92.1410173,1
+1364,502936,5,Arkansas,AR,"Arkansas County",Hampton,"Stuttgart city",Track,Track,71744,870,882937563,6114863,33.5716635,-92.584348,1
+1365,502946,5,Arkansas,AR,"Arkansas County",Berryville,"Stuttgart city",Track,Track,72616,870,100473826,79613,36.3826636,-93.5603328,1
+1366,502956,5,Arkansas,AR,"Arkansas County",Eudora,"Stuttgart city",Track,Track,71640,870,1371775477,94331626,33.14334,-91.3577924,1
+1367,502966,5,Arkansas,AR,"Arkansas County",Eudora,"Stuttgart city",Track,Track,71640,870,193347121,18956600,33.0740956,-91.2394128,1
+1368,502976,5,Arkansas,AR,"Arkansas County",Arkadelphia,"Stuttgart city",Track,Track,71923,870,39159532,248477,34.0967794,-93.0818072,1
+1369,502986,5,Arkansas,AR,"Arkansas County",Piggott,"Stuttgart city",Track,Track,72454,870,438156599,729612,36.3346921,-90.1887574,1
+1370,502996,5,Arkansas,AR,"Arkansas County",Corning,"Stuttgart city",Track,Track,72422,870,38651553,947196,36.4016321,-90.5842507,1
+30058,510214,51,Virginia,VA,"Accomack County",Charlottesville,Chincoteague,Track,Track,22911,434,70176598,763006,38.1705914,-78.4252562,1
+30059,510224,51,Virginia,VA,"Accomack County",Charlottesville,Chincoteague,Track,Track,22908,434,1515441,6873,38.0507548,-78.5188161,1
+30060,510234,51,Virginia,VA,"Accomack County",Esmont,Chincoteague,Track,Track,22937,434,298262360,2724951,37.8270125,-78.6187425,1
+30061,510244,51,Virginia,VA,"Accomack County",Amherst,Chincoteague,Track,Track,24521,434,288542168,2267943,37.5598094,-79.0357307,1
+30062,510254,51,Virginia,VA,"Accomack County",Appomattox,Chincoteague,Track,Track,24522,434,380455338,826014,37.3229004,-78.7296135,1
+30063,510264,51,Virginia,VA,"Accomack County",Arlington,Chincoteague,Track,Track,22204,703,1073466,0,38.8882158,-77.1411664,1
+30064,510274,51,Virginia,VA,"Accomack County",Arlington,Chincoteague,Track,Track,22201,703,207123,0,38.8940355,-77.0838062,1
+30065,510284,51,Virginia,VA,"Accomack County",Arlington,Chincoteague,Track,Track,22203,703,178642,0,38.8786133,-77.1050315,1
+30066,510294,51,Virginia,VA,"Accomack County",Arlington,Chincoteague,Track,Track,22204,703,284983,0,38.8510432,-77.0982611,1
+30843,530219,53,Washington,WA,"Adams County","Benton City",Hatton,Track,Track,99320,509,36844200,475406,46.2893195,-119.4523124,1
+30844,530229,53,Washington,WA,"Adams County",Richland,Hatton,Track,Track,99352,509,23153007,0,46.2207537,-119.3137251,1
+30845,530239,53,Washington,WA,"Adams County",Kennewick,Hatton,Track,Track,99337,509,2295638,0,46.1944776,-119.1192775,1
+30847,530259,53,Washington,WA,"Adams County",Wenatchee,Hatton,Track,Track,98801,509,6839115,772319,47.400419,-120.3057995,1
+30848,530269,53,Washington,WA,"Adams County","Port Angeles",Hatton,Track,Track,98362,206,2317249,0,48.1144131,-123.4452055,1
+30849,530279,53,Washington,WA,"Adams County",Sequim,Hatton,Track,Track,98382,360,37268345,0,48.1105656,-123.1039855,1
+30850,530289,53,Washington,WA,"Adams County","Battle Ground",Hatton,Track,Track,98604,360,61273873,218978,45.8428093,-122.5763423,1
+30851,530299,53,Washington,WA,"Adams County","Battle Ground",Hatton,Track,Track,98604,360,12712420,0,45.7946363,-122.5749673,1
+31530,540210,54,"West Virginia",WV,"Barbour County",Martinsburg,"Philippi city",Track,Track,25404,304,70191510,0,39.4726926,-77.8813447,1
+31531,540220,54,"West Virginia",WV,"Barbour County",Danville,"Philippi city",Track,Track,25053,304,189881273,392737,38.0591906,-81.9169329,1
+31532,540230,54,"West Virginia",WV,"Barbour County",Colliers,"Philippi city",Track,Track,26035,304,38871106,1708665,40.3766064,-80.5665766,1
+31533,540240,54,"West Virginia",WV,"Barbour County",Huntington,"Philippi city",Track,Track,25702,304,2018886,26232,38.4248065,-82.4088274,1
+31534,540250,54,"West Virginia",WV,"Barbour County",Huntington,"Philippi city",Track,Track,25701,304,612254,0,38.4159581,-82.4162541,1
+31535,540260,54,"West Virginia",WV,"Barbour County","Salt Rock","Philippi city",Track,Track,25559,304,144283610,991524,38.3154814,-82.2504657,1
+31536,540270,54,"West Virginia",WV,"Barbour County","West Union","Philippi city",Track,Track,25456,304,543668706,1063577,39.2690673,-80.659054,1
+31537,540280,54,"West Virginia",WV,"Barbour County","Gauley Bridge","Philippi city",Track,Track,25085,304,108800191,2738220,38.1876852,-81.2454706,1
+31538,540290,54,"West Virginia",WV,"Barbour County",Richwood,"Philippi city",Track,Track,26261,304,806690184,2366724,38.0813066,-80.5018773,1
+31779,550218,55,Wisconsin,WI,"Adams County",Almena,"Adams city",Track,Track,54805,715,254659848,8467623,45.4465419,-92.026963,1
+31780,550228,55,Wisconsin,WI,"Adams County",Washburn,"Adams city",Track,Track,54891,715,347268535,72696941,46.6768417,-91.0002896,1
+31781,550238,55,Wisconsin,WI,"Adams County","Green Bay","Adams city",Track,Track,54303,920,1166417,0,44.519987,-88.0334066,1
+31782,550248,55,Wisconsin,WI,"Adams County","Green Bay","Adams city",Track,Track,54302,920,3660553,33519,44.4885958,-87.9835008,1
+31783,550258,55,Wisconsin,WI,"Adams County","De Pere","Adams city",Track,Track,54115,920,6483176,0,44.4339979,-88.0928722,1
+31784,550268,55,Wisconsin,WI,"Adams County","Green Bay","Adams city",Track,Track,54311,920,17516348,0,44.4586793,-87.9212184,1
+31785,550278,55,Wisconsin,WI,"Adams County","Green Bay","Adams city",Track,Track,54313,920,4447467,0,44.4737242,-88.0909943,1
+31786,550288,55,Wisconsin,WI,"Adams County",Alma,"Adams city",Track,Track,54610,608,334778853,42245845,44.4660999,-91.9663739,1
+31787,550298,55,Wisconsin,WI,"Adams County",Hilbert,"Adams city",Track,Track,54129,920,251211053,2149941,44.1023958,-88.1283976,1
+32456,560244,56,Wyoming,WY,"Albany County",Torrington,"Laramie city",Track,Track,82240,307,87949841,927985,42.0401606,-104.0893488,1
+32457,560254,56,Wyoming,WY,"Albany County",Cheyenne,"Laramie city",Track,Track,82001,307,6107919,0,41.1369415,-104.7519569,1
+32458,560264,56,Wyoming,WY,"Albany County",Cheyenne,"Laramie city",Track,Track,82009,307,12662719,0,41.1811979,-104.7878487,1
+32459,560274,56,Wyoming,WY,"Albany County",Diamondville,"Laramie city",Track,Track,83116,307,120154805,12706,41.8198428,-110.556212,1
+32460,560284,56,Wyoming,WY,"Albany County",Casper,"Laramie city",Track,Track,82604,307,3812291,0,42.8162977,-106.338823,1
+32461,560294,56,Wyoming,WY,"Albany County",Powell,"Laramie city",Track,Track,82435,307,1729017461,3330295,44.747875,-108.7873203,1
+1599,602109,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94606,510,706611,0,37.7408161,-122.1621741,1
+1600,602119,6,California,CA,"Alameda County",Berkeley,"Alameda city",Track,Track,94707,510,1106644,0,37.8911093,-122.2813663,1
+1601,602129,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94606,510,560047,0,37.8740722,-122.2779152,1
+1602,602139,6,California,CA,"Alameda County",Berkeley,"Alameda city",Track,Track,94703,510,726625,0,37.8573281,-122.2842016,1
+1603,602149,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94606,510,327217,0,37.8504771,-122.2815375,1
+1604,602159,6,California,CA,"Alameda County",Alameda,"Alameda city",Track,Track,94501,510,582861,0,37.7778323,-122.2835979,1
+1605,602169,6,California,CA,"Alameda County",Alameda,"Alameda city",Track,Track,94501,510,624197,383522,37.7601324,-122.2593887,1
+1606,602179,6,California,CA,"Alameda County","Castro Valley","Alameda city",Track,Track,94546,510,1322635,0,37.7060949,-122.0822257,1
+1607,602189,6,California,CA,"Alameda County","San Leandro","Alameda city",Track,Track,94579,510,1362361,0,37.7167162,-122.1661481,1
+1608,602199,6,California,CA,"Alameda County","San Leandro","Alameda city",Track,Track,94579,510,2455576,0,37.6985801,-122.1574574,1
+1609,602209,6,California,CA,"Alameda County",Hayward,"Alameda city",Track,Track,94544,510,7240876,0,37.6385141,-122.038842,1
+1610,602219,6,California,CA,"Alameda County","San Lorenzo","Alameda city",Track,Track,94580,510,1315446,0,37.6691777,-122.1375217,1
+1611,602229,6,California,CA,"Alameda County",Hayward,"Alameda city",Track,Track,94540,510,1025366,0,37.6535732,-122.0944503,1
+1612,602239,6,California,CA,"Alameda County",Hayward,"Alameda city",Track,Track,94540,510,484105,0,37.6348665,-122.0697491,1
+1613,602249,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94612,510,1723690,0,37.6184511,-122.082604,1
+1614,602259,6,California,CA,"Alameda County","Union City","Alameda city",Track,Track,94587,510,2276490,0,37.582671,-122.0858114,1
+1615,602269,6,California,CA,"Alameda County",Fremont,"Alameda city",Track,Track,94555,510,1634514,0,37.5823793,-122.039873,1
+1616,602279,6,California,CA,"Alameda County",Fremont,"Alameda city",Track,Track,94536,510,2038968,0,37.559196,-121.9915757,1
+1617,602289,6,California,CA,"Alameda County",Fremont,"Alameda city",Track,Track,94538,510,1429049,0,37.5278226,-121.9615164,1
+1618,602299,6,California,CA,"Alameda County",Fremont,"Alameda city",Track,Track,94538,510,1580323,0,37.5168344,-121.9605916,1
+1619,602309,6,California,CA,"Alameda County",Newark,"Alameda city",Track,Track,94560,510,2069720,0,37.5425433,-122.045728,1
+1620,602319,6,California,CA,"Alameda County",Dublin,"Alameda city",Track,Track,94568,925,3071986,0,37.7108737,-121.9177937,1
+1621,602329,6,California,CA,"Alameda County",Pleasanton,"Alameda city",Track,Track,94566,925,4826716,0,37.657232,-121.8874736,1
+1622,602339,6,California,CA,"Alameda County",Livermore,"Alameda city",Track,Track,94551,925,17422343,0,37.7409198,-121.823992,1
+1623,602349,6,California,CA,"Alameda County",Livermore,"Alameda city",Track,Track,94550,925,2674110,0,37.6849518,-121.7489971,1
+1624,602359,6,California,CA,"Alameda County",Oakland,"Alameda city",Track,Track,94607,510,1269350,269265,37.79616,-122.2935358,1
+1625,602369,6,California,CA,"Alameda County",Jackson,"Alameda city",Track,Track,95642,209,42398486,19726,38.401482,-120.746055,1
+1626,602379,6,California,CA,"Alameda County",Chico,"Alameda city",Track,Track,95926,530,6244233,0,39.7558816,-121.8785043,1
+1627,602389,6,California,CA,"Alameda County",Chico,"Alameda city",Track,Track,95928,530,4363875,81917,39.7457516,-121.7956007,1
+1628,602399,6,California,CA,"Alameda County",Magalia,"Alameda city",Track,Track,95954,530,325482537,3681154,39.960108,-121.5013525,1
+1629,602409,6,California,CA,"Alameda County",Oroville,"Alameda city",Track,Track,95966,530,18244928,7521121,39.5272273,-121.4667585,1
+1630,602419,6,California,CA,"Alameda County",Gridley,"Alameda city",Track,Track,95948,530,29807297,0,39.3792483,-121.7370059,1
+1631,602429,6,California,CA,"Alameda County","Rail Road Flat","Alameda city",Track,Track,95248,209,463875178,840311,38.3647246,-120.449,1
+1632,602439,6,California,CA,"Alameda County",Oakley,"Alameda city",Track,Track,94561,925,3569410,0,37.9993161,-121.732928,1
+1633,602449,6,California,CA,"Alameda County",Brentwood,"Alameda city",Track,Track,94513,925,6209732,0,37.9470401,-121.7319199,1
+1634,602459,6,California,CA,"Alameda County",Antioch,"Alameda city",Track,Track,94509,925,1792594,0,38.0053331,-121.7994409,1
+1635,602469,6,California,CA,"Alameda County",Pittsburg,"Alameda city",Track,Track,94565,925,9904787,8915279,38.0392742,-121.8641513,1
+1636,602479,6,California,CA,"Alameda County",Pittsburg,"Alameda city",Track,Track,94565,925,1728163,0,38.0139221,-121.8993609,1
+1637,602489,6,California,CA,"Alameda County",Martinez,"Alameda city",Track,Track,94553,925,15421645,1482175,38.0218058,-122.0963072,1
+1638,602499,6,California,CA,"Alameda County","Pleasant Hill","Alameda city",Track,Track,94523,925,2008436,0,37.9514803,-122.0605997,1
+1639,602509,6,California,CA,"Alameda County",Concord,"Alameda city",Track,Track,94521,925,1955676,0,37.9598407,-121.9580852,1
+1640,602519,6,California,CA,"Alameda County",Concord,"Alameda city",Track,Track,94520,925,687658,0,37.9550364,-122.0446085,1
+1641,602529,6,California,CA,"Alameda County","Walnut Creek","Alameda city",Track,Track,94598,925,6750243,0,37.9067555,-122.0145836,1
+1642,602539,6,California,CA,"Alameda County","San Ramon","Alameda city",Track,Track,94583,925,1766192,0,37.7449859,-121.9480394,1
+1643,602549,6,California,CA,"Alameda County","San Ramon","Alameda city",Track,Track,94583,925,7313345,0,37.7679943,-121.9820003,1
+1644,602559,6,California,CA,"Alameda County",Lafayette,"Alameda city",Track,Track,94549,925,3586907,0,37.8896913,-122.1040703,1
+1645,602569,6,California,CA,"Alameda County",Orinda,"Alameda city",Track,Track,94563,925,13725520,0,37.8566708,-122.1812338,1
+1646,602579,6,California,CA,"Alameda County",Danville,"Alameda city",Track,Track,94506,925,5339429,0,37.8065479,-121.9040691,1
+1647,602589,6,California,CA,"Alameda County",Crockett,"Alameda city",Track,Track,94525,510,15835711,0,38.0244713,-122.2276055,1
+1648,602599,6,California,CA,"Alameda County",Hercules,"Alameda city",Track,Track,94547,510,3417079,0,37.9995137,-122.265433,1
+1649,602609,6,California,CA,"Alameda County","San Pablo","Alameda city",Track,Track,94806,510,1017166,0,37.9761393,-122.345945,1
+1650,602619,6,California,CA,"Alameda County",Richmond,"Alameda city",Track,Track,94804,510,1555877,0,37.9485162,-122.3399466,1
+1651,602629,6,California,CA,"Alameda County",Richmond,"Alameda city",Track,Track,94804,510,1917613,0,37.9159921,-122.3229961,1
+1652,602639,6,California,CA,"Alameda County","El Cerrito","Alameda city",Track,Track,94530,510,1008380,0,37.9139391,-122.2934783,1
+1653,602649,6,California,CA,"Alameda County","Crescent City","Alameda city",Track,Track,95331,707,34598947,45326746,41.7804545,-124.2396505,1
+1654,602659,6,California,CA,"Alameda County","South Lake Tahoe","Alameda city",Track,Track,96150,530,17251475,36532,38.8832961,-120.0306547,1
+1655,602669,6,California,CA,"Alameda County","El Dorado Hills","Alameda city",Track,Track,95762,916,7898800,0,38.6825337,-121.0617486,1
+1656,602679,6,California,CA,"Alameda County",Placerville,"Alameda city",Track,Track,95667,530,26947250,0,38.7517856,-120.8454169,1
+1657,602689,6,California,CA,"Alameda County","Shingle Springs","Alameda city",Track,Track,95682,530,99356819,24031,38.5856314,-120.8677386,1
+1658,602699,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93706,559,1887564,0,36.726462,-119.8010347,1
+1659,602709,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93706,559,3751352,0,36.7096962,-119.7816972,1
+1660,602719,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93727,559,2509841,0,36.7433669,-119.6911739,1
+1661,602729,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93728,559,1826004,0,36.7590503,-119.8157426,1
+1662,602739,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93702,559,2640823,0,36.7577975,-119.7453753,1
+1663,602749,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93727,559,10042420,0,36.7809252,-119.7157537,1
+1664,602759,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93723,559,26665736,0,36.7715437,-119.9090389,1
+1665,602769,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93723,559,78053115,0,36.7959636,-119.9948941,1
+1666,602779,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93722,559,3415541,118929,36.8432113,-119.9118458,1
+1667,602789,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93710,559,2583355,0,36.8301689,-119.7903034,1
+1668,602799,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93704,559,1707572,0,36.7867587,-119.7964425,1
+1669,602809,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93726,559,1574373,0,36.7977982,-119.7429688,1
+1670,602819,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93720,559,2578418,0,36.8739461,-119.7387266,1
+1671,602829,6,California,CA,"Alameda County",Fresno,"Alameda city",Track,Track,93730,559,4242705,0,36.8842624,-119.7573888,1
+1672,602839,6,California,CA,"Alameda County",Clovis,"Alameda city",Track,Track,93612,559,1489402,0,36.8119213,-119.7194921,1
+1673,602849,6,California,CA,"Alameda County",Clovis,"Alameda city",Track,Track,93611,559,80474991,750186,36.7864934,-119.5874178,1
+1674,602859,6,California,CA,"Alameda County",Reedley,"Alameda city",Track,Track,93654,559,160372915,837457,36.663503,-119.4358266,1
+1675,602869,6,California,CA,"Alameda County",Reedley,"Alameda city",Track,Track,93654,559,5705909,326522,36.5869962,-119.4549129,1
+1676,602879,6,California,CA,"Alameda County",Laton,"Alameda city",Track,Track,93242,559,130134942,0,36.4550587,-119.7117335,1
